@@ -5,7 +5,7 @@ import time
 import shutil
 
 '''
-within the project two folders are needed: input and transform.
+within the project two folders are needed: output and transform.
 output is the folder that contains the articles that will be searched
 transform is the folders to which the articles that contains the matches will be send
 
