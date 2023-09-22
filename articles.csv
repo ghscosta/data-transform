@@ -1,0 +1,589 @@
+reference_number,title,journal,year,authors,ANOVA_used,design_used,assumptions_check,which_assumptions_checked,transformation_used,type_of_transformation,motivation,reassessment_assumptions,interpretation_scala,study_element,jcr_impact_factor,status,discard_reason
+1,Decline of seedling phosphorus use efficiency in the heterotic pool of flint maize breeding lines since the onset of hybrid breeding,Journal of Agronomy Crop Science,2021,"Xuelian Li, Melissa Mang, Hans-Peter Piepho, Albrecht Melchinger, Uwe Ludewig",yes,completely randomized design - CRD,yes,"normality, homogeneity, independence ",yes,logarithm,"normality, homogeneity",unmentioned,transformed,milho,1.36,selected,NA
+2,Flint maize root mycorrhization and organic acid exudates under phosphorus deficiency Trends in breeding lines and doubled haploid lines from landraces,Journal of Soil Science and Plant Nutrition,2021,"Xuelian Li, Xiuhao Quan, Melissa Mang, Günter Neumann, Albrecht Melchinger, Uwe Ludewig",yes,completely randomized design - CRD,yes,"normality, homogeneity, independence ",yes,logarithm,"normality, homogeneity",unmentioned,transformed,milho,0.84,selected,NA
+3,Rooting of sacha inchi (Plukenetia volubilis) juvenile cuttings in microtunnels,Acta Agron.,2019,"Reynaldo Solis, Nelly Gonzales, Marlon Pezo, Luis Arévalo, Geomar Vallejos-Torres",yes,completely randomized design - CRD,no,,yes,arcsen,unmentioned,unmentioned,unmentioned,sacha inchi,,selected,NA
+4,Nonlinear growth models: An alternative to ANOVA in tomato trials evaluation,European Journal of Agronomy,2019,"Bruno Giacomini Sari, Alessandro Dal’Col Lúcio, Cinthya Souza Santana, Tiago Olivoto, Maria Inês Diel, Dionatan Ketzer Krysczun",yes,randomized block design - RBD,yes,"normality, homogeneity, independence ",yes,logarithm,"normality, homogeneity",homogeneity,transformed,Tomate,2.06,selected,NA
+4,Nonlinear growth models: An alternative to ANOVA in tomato trials evaluation,European Journal of Agronomy,2019,"Bruno Giacomini Sari, Alessandro Dal’Col Lúcio, Cinthya Souza Santana, Tiago Olivoto, Maria Inês Diel, Dionatan Ketzer Krysczun",yes,randomized block design - RBD,yes,"normality, homogeneity, independence ",yes,Box-Cox,"normality, homogeneity",homogeneity,transformed,Tomate,2.06,selected,NA
+5,"Protection of spruce from colonization by the bark beetle, Ips perturbatus, in Alaska",Forest ecology and management,2008,"Andrew D. Graves, Edward H. Holsten, Mark E. Ascerno, Kenneth P. Zogas, John S. Hard, Dezene P.W. Huber, Robert A. Blanchette, Steven J. Seybold",yes,completely randomized design - CRD,yes,"normality, homogeneity",yes,logarithm,"normality, homogeneity",unmentioned,original,spruce,1.53,selected,NA
+6,Plastic responses to light intensity and planting density in three Lamium species,PLANT SYSTEMATICS AND EVOLUTION,2006,"N. Barišić, B. Stojković, A. Tarasjev",yes,randomized block design - RBD,no,,yes,logarithm,unmentioned,unmentioned,unmentioned,Lamium,0.42,selected,NA
+7,Comparison of Sampling Methods Used to Estimate Spider (Araneae) Species AhWldance and Composition in Grape Vineyards,Environmental Entomology,2016,"MICHAEL J. COSTELLO, KENT M. DAANE",yes,split-plot design,yes,unmentioned,yes,logarithm,unmentioned,unmentioned,unmentioned,Grape Vineyards,0.99,selected,NA
+7,Comparison of Sampling Methods Used to Estimate Spider (Araneae) Species AhWldance and Composition in Grape Vineyards,Environmental Entomology,2016,"MICHAEL J. COSTELLO, KENT M. DAANE",yes,split-plot design,yes,unmentioned,yes,square root,unmentioned,unmentioned,unmentioned,Grape Vineyards,0.99,selected,NA
+8,Effect of data transformation on the distribution and repeatability of egg-production traits,JOURNAL OF ANIMAL BREEDING AND GENETICS,1994,S. N. IBE,yes,completely randomized design - CRD,no,,yes,z(t) = (y^t - 1 )/ (tG^(t-1)),"normality, homogeneity",unmentioned,unmentioned,egg-production,1.30,selected,NA
+9,"Productivity, mineral composition, and phenolic compound content in bush snap beans grown during different seasons",Semina-Ciencias Agrarias,2019,"Guilherme Renato Gomes; Gustavo Henrique Freiria; Leonel Vinicius Constantino; Silas Mian Alves; Douglas Mariani Zeffa; Lúcia Sadayo Assari Takahashi4
+ ",yes,randomized block design - RBD,no,,yes,logarithm,unmentioned,unmentioned,unmentioned,feijão-vagem,0.21,selected,NA
+10,Quality of rubber tree rootstock seedlings grown in protected environments and alternative substrates,ACTA SCIENTIARUM.,2018,"Abimael Gomes da Silva, Edilson Costa, Talita Cristina Campos Pereira, Flávio Ferreira da Silva Binotti, Erivaldo José Scaloppi Junior, Tiago Zoz",yes,completely randomized design - CRD,no,,yes,square root,unmentioned,unmentioned,unmentioned,seringueira,,selected,NA
+11,Soil fertility under different tillage systems in sugarcane expansion area,Australian Journal of Crop Science,2019,"Emmerson Rodrigues de Moraes , José Geraldo Mageste, Joicy Vitória Miranda Peixoto, Luis Augusto da Silva Domingues, Regina Maria Quintão Lana, Ernane Miranda Lemes",yes,randomized block design - RBD,yes,unmentioned,yes,square root,unmentioned,unmentioned,transformed,sugarcane,0.72,selected,NA
+12,Indirect selection of maize genotypes based on associations between root agronomic and anatomical characters,CHILEAN JOURNAL OF AGRICULTURAL RESEARCH ,2017,"Ivanildo Nascimento-Júnior, Gustavo V. Môro, Fabíola V. Môro",yes,randomized block design - RBD,yes,"normality, homogeneity",yes,logarithm,"normality, homogeneity",unmentioned,transformed,milho,0.61,selected,NA
+12,Indirect selection of maize genotypes based on associations between root agronomic and anatomical characters,CHILEAN JOURNAL OF AGRICULTURAL RESEARCH ,2017,"Ivanildo Nascimento-Júnior, Gustavo V. Môro, Fabíola V. Môro",yes,randomized block design - RBD,yes,"normality, homogeneity",yes,square root,"normality, homogeneity",unmentioned,transformed,milho,0.61,selected,NA
+13,"TEMPERATURE, LIGHT, AND DESICCATION TOLERANCE IN SEED GERMINATION OF Mauritia flexuosa L.F",Revista Árvore,2018,"Lívia Caroline Praseres de Almeida, Kathia Fernandes Lopes Pivetta, Renata Gimenes, Gustavo de Nobrega Romani ,Marcos Vieira Ferraz Renata Bachin Mazzini-Guedes",yes,completely randomized design - CRD,no,,yes,arcsen,unmentioned,unmentioned,transformed,palmeira,0.24,selected,NA
+14,EXCHANGEABLE ALUMINUM EVALUATION IN ACID SOILS,Scientia Agricola,2003,Cassio Hamilton Abreu Jr.; Takashi Muraoka; André Fernando Lavorante,yes,unmentioned,no,,yes,"(X+0,5)",unmentioned,unmentioned,transformed,solo ,1.05,selected,NA
+15,Non-target impact of deltamethrin on soil arthropods of maize fields under conventional and no-tillage cultivation,Journal of Applied Entomology,2007,"C. A. Badji, R. N. C. Guedes, A. A. Silva, A. S. Corrêa, M. E. L. R. Queiroz, M. Michereff-Filho",yes,randomized block design - RBD,yes,"normality, homogeneity",yes,logarithm,"normality, homogeneity",unmentioned,transformed,milho,0.98,selected,NA
+16,Physicochemical and sensory characteristics of milk from cows in different lactation stages and calving orders,Semina: Ciências Agrárias,2016,"Mayara Leilane de Jesus Barreto; Adriano Henrique do Nascimento Rangel; Maria Helena Constantino Spyrides; Gelson Santos Difante; Dorgival Morais de Lima Júnior
+",yes,unmentioned,no,,yes,logarithm,unmentioned,unmentioned,unmentioned,Leite,0.21,selected,NA
+17,Rootstocks and grafting methods for Atemoya (Annona squamosa L. x Annona cherimoya Mill.) plants,Semina: Ciências Agrárias,2013,"Grazianny Andrade Leite; Vander Mendonça; Luciana Freitas de Medeiros Mendonça; Lydio Luciano de Gois Ribeiro Dantas; Poliana Samara de Castro Freitas Cunha
+",yes,randomized block design - RBD,no,,yes,square root,unmentioned,unmentioned,transformed,Atemoieira,0.21,selected,NA
+18,Embryogenesis in the anthers of different ornamental pepper (Capsicum annuum L.) genotypes,Genetics and molecular RESEARCH ,2015,"P.A. Barroso, M.M. Rêgo, E.R. Rêgo and W.S. Soares",yes,completely randomized design - CRD,no,,yes,arcsen,unmentioned,unmentioned,transformed,Pimenta,0.11,selected,NA
+19,Evaluation of enset (Ensete ventricosum) clones for resistance reaction against pathogenic Xanthomonas campestris pv. musacearum isolates from Southwestern Ethiopia,Cogent Food & Agriculture,2020,"Befekadu Haile , Chemeda Fininsa , Habtamu Terefe , Alemayehu Chala & Shimelis Hussen",yes,completely randomized design - CRD,no,,yes,arcsen,normality,unmentioned,transformed,Ensete ventricosum (falsa bananeira),0.53,selected,NA
+20,In vitro pollen viability of maize cultivars at different times of collection,Ciência Rural,2016,"Emanoel Sanches Martins, Livia Maria Chamma Davide, Gian José Miranda, Jefferson de Oliveira Barizon, Francisco de Assis Souza Junior, Rafael Pelloso de Carvalho, Manoel Carlos Gonçalves",yes,completely randomized design with split-plot arrangement,no,,yes,arcsen√x,unmentioned,unmentioned,unmentioned,milho,0.28,selected,NA
+21,Requirement of Digestible Sulfur Amino Acids in Laying Hens Fed Sorghum- and Soybean Meal-Based Diets,Brazilian Journal of Poultry Science,2015,"Gomez RS, Angeles ML",yes,randomized block design - RBD,no,,yes,arcsen,unmentioned,unmentioned,unmentioned,poedeiras,0.38,selected,NA
+22,Tropical tannin-rich fodder intake modifies saliva-binding capacity in growing sheep,animal,2013,"J. J. Vargas-Magaña, A. J. Aguilar-Caballero, J. F. J. Torres-Acosta , C. A. Sandoval-Castro, H. Hoste, C. M. Capetillo-Leal",yes,unmentioned,no,,yes,natural logarithm,normality,normality,transformed,ovelhas,1.68,selected,NA
+22,Tropical tannin-rich fodder intake modifies saliva-binding capacity in growing sheep,animal,2013,"J. J. Vargas-Magaña, A. J. Aguilar-Caballero, J. F. J. Torres-Acosta , C. A. Sandoval-Castro, H. Hoste, C. M. Capetillo-Leal",yes,unmentioned,no,,yes,square ,normality,normality,transformed,ovelhas,1.68,selected,NA
+23,A Simulation Model of Rosa hybrida Growth Response to Constant Irradiance and Day and Night Temperatures,Journal of the American Society for Horticultural Science,1994,"Douglas A. Hopper, P. Allen Hammer, James R. Wilson",yes,unmentioned,no,,yes,natural logarithm,homogeneity,unmentioned,transformed,Rosa hybrida,0.54,selected,NA
+24,Agronomic performance of maize (Zea mays L.) genotypes under Azospirillum brasilense application and mineral fertilization,Revista de la Facultad de Ciencias Agrarias,2020,"Luiz Eduardo Tilhaqui Bertasello, Vinicius Augusto Filla, Anderson Prates Coelho, Gustavo Vitti Môro",yes,randomized block design - RBD,no,,yes,√x+1,normality,unmentioned,original,milho,0.38,selected,NA
+25,Chitosan and phenolic compounds in the control of anthracnose in mango,REVISTA BRASILEIRA DE FRUTICULTURA,2021,"Luana Sabrine Silva, Edson Hiydu Mizobutsi, Regina Cássia Ferreira Ribeiro, Fernando da Silva Rocha, Gisele Polete Mizobutsi, Sabrina Gonçalves Vieira de Castro",yes,completely randomized design with split-plot arrangement,no,,yes,√x+1,unmentioned,unmentioned,transformed,manga,0.29,selected,NA
+26,CORN FERTILIZATION USING SWINE WASTEWATER AND SOIL-WATER ENVIRONMENTAL QUALITY,Engenharia Agricola,2017,"DANIELLE M. ROSA, SILVIO C. SAMPAIO, PÂMELA A. M. PEREIRA, RALPHO R. DOS REIS, MARIANA SBIZZARO",yes,randomized block design - RBD,yes,unmentioned,yes,√x+2,normality,unmentioned,transformed,milho,0.13,selected,NA
+27,Cost reduction and quality enhancement in passion fruit seedlings using alternative substrate,Semina: Ciências Agrárias,2021,Luana Nascimento da Silva; Lucas Kennedy Silva Lima; Filipe Silva Aguiar; Onildo Nunes de Jesus ,yes,randomized block design - RBD,no,,yes,µ/desvio padrão,normality,unmentioned,transformed,maracujá azedo,0.21,selected,NA
+28,Effect of castration on carcass yield and composition of crossbred river buffaloes (Buffalypso) in the growth stage,Cuban Journal of Agricultural Science,2013,"O. Fundora, Verena Torres, J.L Medina, Lucía Sarduy, María. E. González",yes,randomized block design - RBD,yes,"normality, homogeneity",yes,√arcsine ,"normality, homogeneity","normality, homogeneity",transformed,búfalos mestiços,,selected,NA
+29,EFFICIENCY OF ARTIFICIAL HYBRIDIZATION IN SOYBEAN DURING THE SUMMER DEPENDING ON TEMPERATURE AND RELATIVE HUMIDITY,Bioscience Journal,2015,Éder MATSUO; Tuneo SEDIYAMA; Cosme Damião CRUZ; Sérgio Hermínio BROMMONSCHENKEL; Silvana da Costa FERREIRA; Gustavo Sessa FIALHO,yes,randomized block design - RBD,yes,"normality, homogeneity",yes,log(x+0.5),"normality, homogeneity","normality, homogeneity",transformed,soja,0.13,selected,NA
+30,HEALTH AND PHYSIOLOGICAL QUALITY OF AROEIRA-PRETA (Lithraea molleoides) SEEDS EXPOSED TO METHODS OF OVERCOMING DORMANCY,Ciência Florestal,2014,"Graziela Piveta, Marlove de Fátima Brião Muniz, Lia Rejane Silveira Reiniger, Cláudia Braga Dutra, Cleidionara Pacheco",yes,completely randomized design - CRD,no,,yes,arcsen√x/100,unmentioned,unmentioned,transformed,SEMENTES DE AROEIRA-PRETA,0.18,selected,NA
+31,Passion Fruit (Passiflora spp.) species as sources of resistance to soil phytopathogens Fusarium solani and Fusarium oxysporum f. sp. passiflorae complex,Revista Brasileira de Fruticultura,2020,"Juliana Avelar de Carvalho, Jeferson Gonçalves de Jesus, Kelly Lana Araujo, Milson Evaldo Serafim, Thiago Alexandre Santana Gilio, Leonarda Grillo Neves",yes,randomized block design - RBD,no,,yes,√( x + 0.5),unmentioned,unmentioned,transformed,maracujá,0.29,selected,NA
+31,Passion Fruit (Passiflora spp.) species as sources of resistance to soil phytopathogens Fusarium solani and Fusarium oxysporum f. sp. passiflorae complex,Revista Brasileira de Fruticultura,2020,"Juliana Avelar de Carvalho, Jeferson Gonçalves de Jesus, Kelly Lana Araujo, Milson Evaldo Serafim, Thiago Alexandre Santana Gilio, Leonarda Grillo Neves",yes,randomized block design - RBD,no,,yes,logarithm ,unmentioned,unmentioned,transformed,maracujá,0.29,selected,NA
+32,Nitrogen doses in the growth of Calceolaria x herbeohybrida in pot,Ornamental Horticulture,2017,"Mara Cíntia Winhelmann, Gislaine Taís Grzeça, Priscila Paris, Marília Tedesco, Joana Palolazzi, Eduarda Demari Avrella, Claudimar Sidnei Fior, Gilmar Schäfer.",yes,completely randomized design - CRD,yes,unmentioned,yes,logarithm,unmentioned,unmentioned,transformed,Calceolaria x herbeohybrida,0.28,selected,NA
+33,Pathogenicity of Bacillus Strains to Cotton Seedlings and Their Effects on Some Biochemical Components of the Infected Seedlings,PLANT PATHOLOGY J,2022,"Aly A. Aly, Omima M. El-Mahdy, Marian M. Habeb, Abeer Elhakem, Amal A. Asran, Maryan M. Youssef, Heba I. Mohamed, and Rania S. Hanafy.",yes,randomized block design - RBD,yes,unmentioned,yes,arcsen,homogeneity,unmentioned,transformed,Algodão,0.66,selected,NA
+34,Rooting competence of mini-cuttings of Cabralea canjerana clones in different seasons,Ciência Rural,2020,"Cláudia Burin, Sorhaila Camila Batistel, Gabriele Lohmann, Dilson Antônio Bisognin.",yes,completely randomized design - CRD,yes,"normality, homogeneity",yes,arcsen,"normality, homogeneity",unmentioned,transformed,Cabralea canjerana,0.28,selected,NA
+34,Rooting competence of mini-cuttings of Cabralea canjerana clones in different seasons,Ciência Rural,2020,"Cláudia Burin, Sorhaila Camila Batistel, Gabriele Lohmann, Dilson Antônio Bisognin.",yes,completely randomized design - CRD,yes,"normality, homogeneity",yes,square,"normality, homogeneity",unmentioned,transformed,Cabralea canjerana,0.28,selected,NA
+35,"‘TAQUARI’, A NEW AND A PROMISING MANGO MATERIAL: EMERGENCE, POST-HARVEST AND BIOMETRICS OF FRUIT",Bioscience Journal,2018,"Guilherme Nacata, Renata Aparecida de Andrade, Kelly Magalhães Marques, Ariadne Kaleda Marino, Ben-Hur Mattiuz.",yes,randomized block design - RBD,no,,yes,arcsen,unmentioned,unmentioned,transformed,manga,0.13,selected,NA
+36,Trade-Offs of Flowering and Maturity Synchronisation for Pineapple Quality,PLOS ONE,2015,"V. Nicodème Fassinou Hotegni, Willemien J. M. Lommen*, Euloge K. Agbossou, Paul C. Struik",yes,split-plot design,no,,yes,"√x+0,5",unmentioned,unmentioned,transformed,abacaxi,0.88,selected,NA
+36,Trade-Offs of Flowering and Maturity Synchronisation for Pineapple Quality,PLOS ONE,2015,"V. Nicodème Fassinou Hotegni, Willemien J. M. Lommen*, Euloge K. Agbossou, Paul C. Struik",yes,split-plot design,no,,yes,arcsen√ ,unmentioned,unmentioned,transformed,abacaxi,0.88,selected,NA
+37,Analysis of variance of primary data on plant growth analysis,PESQUISA AGROPECUÁRIA BRASILEIRA,2003,Adelson Paulo Araújo,yes,randomized block design,yes,homogeneity,yes,logarithm,homogeneity,unmentioned,"transformed, original","tomate, feijão, milheto, arroz",0.36,selected,NA
+38,Impact of Positive Selection on Incidence of Different Viruses During Multiple Generations of Potato Seed Tubers in Uganda,Potato Research,2018,"Uta Priegnitz, Willemien J.M. Lommen, René A.A. van der Vlugt e Paul C. Struik",yes,split-plot design,no,,yes,arcsen,unmentioned,unmentioned,transformed,batata,0.74,selected,NA
+39,Modeling Spatially Correlated and Heteroscedastic Errors in Ethiopian Maize Trials,crop science,2018,"Tigist Mideksa Damesa, Jens Möhring, Johannes Forkman, and Hans-Peter Piepho",yes,randomization-based model,yes,homogeneity,yes,Box-Cox,homogeneity,unmentioned,"transformed, original",milho,0.90,selected,NA
+40,Logarithmic Transformation is Essential for Statistical Analysis of Fungicide EC50 Values,JOURNAL OF PHYTOPATHOLOGY,2014,"Hong-Jie Liang, Jin-Li Li, Ya-Li Di, An-Sheng Zhang, and Fu-Xing Zhu.",yes,unmentioned,yes,"normality, homogeneity",yes,logarithm,"normality, homogeneity","normality, homogeneity","transformed, original",fungicidas,0.44,selected,NA
+41,Influence of weight and type of planting material on fruit quality and its heterogeneity in pineapple, Frontiers in Plant Science,2015,"V. Nicodème Fassinou Hotegni, Willemien J. M. Lommen*, Euloge K. Agbossou, Paul C. Struik",yes,split-plot design,no,,yes,arcsen√ ,unmentioned,unmentioned,transformed,abacaxi,1.32,selected,NA
+41,Influence of weight and type of planting material on fruit quality and its heterogeneity in pineapple, Frontiers in Plant Science,2015,"V. Nicodème Fassinou Hotegni, Willemien J. M. Lommen*, Euloge K. Agbossou, Paul C. Struik",yes,split-plot design,no,,yes,"√x+0,5",unmentioned,unmentioned,transformed,abacaxi,1.32,selected,NA
+42,Inheritance of resistance to root-lesion nematode (Pratylenchus thornei) in wheat landraces and cultivars from the West Asia and North Africa (WANA) region,Crop & Pasture Science,2011,"J. P. Thompson, and N. P. Seymour",yes,randomized complete block design,yes,unmentioned,yes,logarithm,unmentioned,unmentioned,transformed,Trigo,0.82,selected,NA
+43,Data transformations in experiments with zucchini in protected environment    ,CIENCIA RURAL,2009,"Couto, MRM and Lucio, AD and Lopes, SJ and Carpes, RH",yes,randomized block design - RBD,yes,unmentioned ,yes,Box-Cox,normality,"normality, homogeneity",transformed,abobrinha italiana,0.28,selected,NA
+44,Box-cox transformation in experiments with green pepper in protected environments,HORTICULTURA BRASILEIRA,2011,"Lucio, AD and Couto, MRM and Lopes, SJ and Storck, L",yes,randomized block design - RBD,yes,unmentioned ,yes,Box-Cox,normality,"normality, homogeneity",transformed,pimenta verde,0.31,selected,NA
+45,Impact of Multiple Insect-Pest Incidence on Yield,CEREAL RESEARCH COMMUNICATIONS,2015,"Sarao, PS and Shera, PS and Singh, P",yes,randomized block design - RBD,yes,unmentioned,yes,square root,normality,unmentioned,original,Arroz basmati,0.41,selected,NA
+45,Impact of Multiple Insect-Pest Incidence on Yield,CEREAL RESEARCH COMMUNICATIONS,2015,"Sarao, PS and Shera, PS and Singh, P",yes,randomized block design - RBD,yes,unmentioned,yes,arcsen,normality,unmentioned,original,Arroz basmati,0.41,selected,NA
+46,Data Transformation in Statistical Analysis of Field Trials with Changing Treatment Variance    ,AGRONOMY JOURNAL,2009,"Piepho, HP",yes,completely randomized design - CRD,yes,normality,yes,"power transformation y^0,235","normality, homogeneity","normality, homogeneity",transformed,nabo,0.86,selected,NA
+47,Analysis of variance in soil research: examining the assumptions,European Journal of Soil Science,2019,"Webster, R. and Lark, R.M.",yes,completely randomized design - CRD,yes,"normality, homogeneity",yes,Box-Cox,"normality, homogeneity",unmentioned,transformed,nitrogênio do solo,0.97,selected,NA
+47,Analysis of variance in soil research: examining the assumptions,European Journal of Soil Science,2019,"Webster, R. and Lark, R.M.",yes,completely randomized design - CRD,yes,"normality, homogeneity",yes,logarithm,"normality, homogeneity",unmentioned,transformed,nitrogênio do solo,0.97,selected,NA
+48,Field evaluation of hermetic and synthetic pesticide‐based technologies in smallholder sorghum grain storage in hot and arid climates,Scientific Reports,2021,"Mubayiwa, M. and Mvumi, B.M. and Stathers, T. and Mlambo, S. and Nyabako, T.",yes,randomized block design - RBD,yes,unmentioned ,yes,square root,unmentioned,unmentioned,transformed,sorgo,1.05,selected,NA
+48,Field evaluation of hermetic and synthetic pesticide‐based technologies in smallholder sorghum grain storage in hot and arid climates,Scientific Reports,2021,"Mubayiwa, M. and Mvumi, B.M. and Stathers, T. and Mlambo, S. and Nyabako, T.",yes,randomized block design - RBD,yes,unmentioned ,yes,logarithm,unmentioned,unmentioned,transformed,"traça-dos-cereais, besouro-das-farinhas ",1.05,selected,NA
+49,Synergistic effect of sulfur and nitrogen in the organic and mineral fertilization of durum wheat: Grain yield and quality traits in the Mediterranean environment,Agronomy,2018,"Rossini, F. and Provenzano, M.E. and Sestili, F. and Ruggeri, R.",yes,split-split plot design,yes,normality,yes,unmentioned,unmentioned,unmentioned,unmentioned,trigo,1.42,selected,NA
+50,Soil texture modulates the response of ammonia-oxidizing prokaryotes to biochemical quality of organic inputs in tropical agricultural soils,Soil Biology and Biochemistry,2016,"Muema, E.K. and Cadisch, G. and Rasche, F.",yes,completely randomized design - CRD with  factoria,yes,"normality, homogeneity",yes,unmentioned,unmentioned,unmentioned,unmentioned,Atividade Microbiana do Solo,8.55,selected,NA
+51,"Community level physiological profiles (CLPP), characterization and microbial activity of soil amended with dairy sewage sludge",Sensors,2012,"Fra̧c, M. and Oszust, K. and Lipiec, J.",yes,randomized block design - RBD,yes,"normality, homogeneity",yes,unmentioned,"normality, homogeneity",unmentioned,unmentioned,Atividade Microbiana do Solo,0.90,selected,NA
+52,Generalized lineal models for the analysis of binary data from propagation experiments of Brazilian orchids,Brazilian Archives of Biology and Technology,2008,"Mora, F. and De Menezes Gonçalves, L. and Scapim, C.A. and Martins, E.N. and Da Silva Machado, M.D.F.P.",yes,completely randomized design - CRD with  factoria,yes,normality,yes,arcsen(y/100),normality,unmentioned,transformed,Cattleya bicolor orquidia,0.22,selected,NA
+53,Preliminary screening of domestic barley and wild barley genotypes for salt tolerance,"Agrosystems, Geosciences and Environment",2021,"Mohammed, A.H. and Morrison, J.I. and Baldwin, B.S.",yes,randomized block design - RBD com fatorial,no,,yes,unmentioned,homogeneity,unmentioned,unmentioned,cevada,,selected,NA
+54,Physiological potential and health of soybean seeds obtained from organic and conventional systems,Journal of Seed Science,2019,"Ibanhes Neto, H.F. and Freiria, G.H. and da Costa, D.S. and Prete, C.E.C. and Takahashi, L.S.A.",yes,randomized block design - RBD,yes,"normality, homogeneity",yes,unmentioned,unmentioned,unmentioned,unmentioned,soja,0.41,selected,NA
+55,Impact of pyrochar and hydrochar on soybean (Glycine max L.) root nodulation and biological nitrogen fixation,Zeitschrift fur Pflanzenernahrung und Bodenkunde,2017,"Scheifele, M. and Hobi, A. and Buegger, F. and Gattinger, A. and Schulin, R. and Boller, T. and Mäder, P.",yes,randomized block design - RBD,yes,normality,yes,unmentioned,normality,unmentioned,unmentioned,soja,,selected,NA
+56,Heat-dried sclerotia of Sclerotinia sclerotiorum myceliogenically germinate in water and are able to infect Brassica napus,CROP & PASTURE SCIENCE,2018,"Lane, DW and Kamphuis, LG and Derbyshire, MC and Denton-Giles, M",yes,Full-factorial,yes,"normality, homogeneity",yes,unmentioned,"normality, homogeneity",unmentioned,unmentioned,mofo branco ,0.82,selected,NA
+57,Agronomical and Physiological Responses of Faba Bean Genotypes to Salt Stress,Agriculture (Switzerland),2022,"Afzal, M. and Alghamdi, S.S. and Migdadi, H.H. and El-Harty, E. and Al-Faifi, S.A.",yes,randomized block design - RBD split plot,no,,yes,unmentioned,unmentioned,unmentioned,unmentioned,Feijão-fava,,selected,NA
+58,"Forage Yield, Quality, and Impact on Subsequent Cash Crop of Cover Crops in an Integrated Forage/Row Crop System",Agronomy,2022,"Bracey, W.M. and Sykes, V.R. and Yin, X. and Bates, G.E. and Butler, D.M. and McIntosh, D.W. and Willette, A.R.",yes,factorial design,yes,"normality, homogeneity",yes,unmentioned,"normality, homogeneity",unmentioned,unmentioned,forragem de gado,1.42,selected,NA
+59,IMPACT OF DROUGHT AND SALT STRESS ON SEED GERMINATION AND SEEDLING GROWTH OF MAIZE HYBRIDS,GENETIKA-BELGRADE,2019,"Radic, V and Balalic, I and Jacimovic, G and Nastasic, A and Savic, J and Marjanovic-Jeromela, A",yes,factorial design,no,,yes,unmentioned,unmentioned,unmentioned,unmentioned,milho,0.75,selected,NA
+60,Back to the basics: allometric growth by the horns of bovid mammals,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+61,Enhanced low flow prediction for water and environmental management,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+62,Comparisons Between Laboratory Sediment Toxicity Test Results and Assessment of Benthic Community Changes for a Lake with Mild Metal Contamination,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+63,Determinants of Consumer Intentions to Purchase Energy-Saving Household Products in Pakistan,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+64,Generation of Monthly Precipitation Climatologies for Costa Rica Using Irregular Rain-Gauge Observational Networks,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+65,Impact of host plant species and whitefly species on feeding behavior of Bemisia tabaci,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+66,Hierarchical regression models for dendroclimatic standardization and climate reconstruction    ,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+67,Improving finger coordination in young and elderly persons,,,,,,,,,,,,,,,discarded,physical education
+68,Optimal stopping time of software system test via artificial neural network with fault count data,,,,,,,,,,,,,,,discarded,IT Article
+69,"Pharmacokinetic and Safety Comparison of Two Capecitabine Tablets in Patients with Colorectal or Breast Cancer Under Fed Conditions: A Multicenter, randomized, Open-Label, Three-Period, and Reference-Replicated Crossover Study",,,,,,,,,,,,,,,discarded,oncology 
+70,Multivariate Statistical Methods for Metabolic Phenotyping,,,,,,,,,,,,,,,discarded,book
+71,Dissociating embodiment and emotional reactivity in motor responses to artworks,,,,,,,,,,,,,,,discarded,psychology
+72,542,,,,,,,,,,,,,,,discarded,book
+73,Application of statistics in plant and crop research: important issues,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+74,Realized Heritability of Tonic Immobility in White Leghorn Hens: A Replicated Single Generation Test,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+75,Differences in the rotational effect of buoyancy and trunk kinematics between front crawl and backstroke swimming,,,,,,,,,,,,,,,discarded,physical education
+76,"The analysis of chinchilla (Chinchilla lanigera, M.) male reproduction. The case of a leading polish breeding farm",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+77,Analyzing Proportion Scores as Outcomes for Prevention Trials: a Statistical Primer    ,,,,,,,,,,,,,,,discarded,public health
+78,The Dynamics of Public Opinion Following Terror Attacks: Evidence for a Decrease in Equalitarian Values From Internet Search Volume Indices,,,,,,,,,,,,,,,discarded,psychology
+79,Data transformations in analysis of variance    ,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+80,Visual Velocity Input-Output Functions: The Integration of Distance and Duration Onto Subjective Velocity ,,,,,,,,,,,,,,,discarded,psychology
+81,Measurement scales and the age-complexity hypothesis,,,,,,,,,,,,,,,discarded,psychology
+82,Cognitive Therapy and Research,,,,,,,,,,,,,,,discarded,psychology
+83,INTEGRATIVE CLUSTER ANALYSIS IN BIOINFORMATICS,,,,,,,,,,,,,,,discarded,book
+84,Experimental research and multivariate statistical analyses in business information systems research – a meta-review,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+85,Surgical dexterity after a 'night out on the town'    ,,,,,,,,,,,,,,,discarded,medicine
+86,Evaluation of Data Transformations and Validation of aSpatial Model for Spatial Dependency of Trialeurodes vaporariorum Populations in a Cherry Tomato Greenhouse,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+87,Examining the roles of child temperament and teacher-child relationships as predictors of Turkish children’s social competence and antisocial behavior,,,,,,,,,,,,,,,discarded,psychology
+88,Statistical Analysis of Functional N euroimaging Data: Exploratory Versus Inferential Methods,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+89,"Global Research Alliance N2O chamber methodology guidelines: Statistical considerations, emission factor calculation, and data reporting    ",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+90,Accurate estimation of prediction models for operator-induced defects in assembly manufacturing processes,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+91,Cathodal tDCS increases stop-signal reaction time,,,,,,,,,,,,,,,discarded,medicine
+92,"The effects of acute exercise on visuomotor adaptation, learning, and inter-limb transfer",,,,,,,,,,,,,,,discarded,medicine
+93,Prediction intervals for the original response when using Manly's exponential transformations,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+94,Multivariate Analysis of Multiple Datasets: a Practical Guide for Chemical Ecology,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+95,Choice of analysis pathway dramatically affects statistical outcomes in breaking continuous flash suppression,,,,,,,,,,,,,,,discarded,medicine
+96,Quality-productivity decision making when turning of Inconel 718 aerospace alloy: A response surface methodology approach,,,,,,,,,,,,,,,discarded,mechanics
+97,"Using the Gamma Generalized Linear Model for Modeling Continuous, Skewed and Heteroscedastic Outcomes in Psychology",,,,,,,,,,,,,,,discarded,psychology
+98,Analyzing Proportion Scores as Outcomes for Prevention Trials: a Statistical Primer    ,,,,,,,,,,,,,,,discarded,public health
+99,A modern guide to preliminary data analysis and data cleansing in Behavioural Accounting Research,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+100,Multivariate correlation among resilient modulus and cone penetration test parameters of cohesive subgrade soils,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+101,Sucessful emotions,,,,,,,,,,,,,,,discarded,book
+102,To transform or not to transform: using generalized linear mixed models to analyse reaction time data,,,,,,,,,,,,,,,discarded,psychology
+103,A Prediction Interval Estimator for the Original Response When Using Box–Cox Transformations,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+104,Drug versus sweet reward: greater attraction to and preference for sweet versus drug cues,,,,,,,,,,,,,,,discarded,medicine
+105,Improved Bayesian Multi-modeling: Integration of Copulas and Bayesian,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+106,Ethical Context and Ethical Decision Making: Examination of an Alternative Statistical Approach for Identifying Variable Relationships,,,,,,,,,,,,,,,discarded,sociology
+107,Robust Parameter Design of an EDM Process,,,,,,,,,,,,,,,discarded,simulation study
+108,Reading Aloud: Does Previous Trial History Modulate the Joint Effects of Stimulus Quality and Word Frequency?,,,,,,,,,,,,,,,discarded,psychology
+109,Improving finger coordination in young and elderly persons,,,,,,,,,,,,,,,discarded,medicine
+110,Box–Cox transformation and random regression models for fecal egg count data,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+111,"Testing the Significance of a Correlation With Nonnormal Data: Comparison of Pearson, Spearman, Transformation, and Resampling Approache",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+112,Detecting and cleaning outliers for robust estimation of variogram models in insect count data,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+113,The Box-Cox power transformation on nursing sensitive indicators: Does it matter if structural effects are omitted during the estimation of the transformation parameter?,,,,,,,,,,,,,,,discarded,medicine
+114,The effects of EEG data transformations on the solution accuracy of principal component analysis,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+115,An integrated fuzzy regression algorithm for improved electricity consumption estimation,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+116,The interpretation of geochemical survey data,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+117,BATCH EFFECTS AND NOISE IN MICROARRAY EXPERIMENTS,,,,,,,,,,,,,,,discarded,book
+118,An evaluation framework for statistical tests on microarray data,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+119,The logarithmic transformation should be avoided for stabilising the variance of mould growth rate,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+120,"Microarray Data Analysis: General Concepts, Gene Selection, and Classification    ",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+121,Numerical transformation of geochemical data: 1. Maximizing geochemical contrast to facilitate information extraction and improve data presentation    ,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+122,More Powerful Tests of Predictor Subsets in Regression Analysis Under Nonnormality,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+123,Tobacco use in popular movies during the past decade,,,,,,,,,,,,,,,discarded,medicine
+124,EEG Characteristics Prior to and Following the Evoked K-Complex,,,,,,,,,,,,,,,discarded,medicine
+125,Heterogeneity of Variance in Clinical Data,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+126,Exact testing in multivariate regression,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+127,ANALYZING TRACE-LEVEL PLUTONLWM MEASUREMENTS: A CASE STUDY IN DATA TRANSFORMATIONS,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+128,Assessment of concentrations of beet necrotic yellow vein virus by enzyme-linked immunosorbent assay,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+129,THE RELATIONSHIP BETWEEN MEAN AND STANDARD DEVIATION IN PRECIPITATION CHEMISTRY MEASUREMENTS ACROSS EASTERN NORTH AMERICA,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+130,Insensitivity of the analysis of variance to heredity-environment interaction    ,,,,,,,,,,,,,,,discarded,psychology
+131,"MODEL BUILDING IN CHEMISTRY, A UNIFIED APPROACH",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+132,Investigations into parametric analysis of data from in vivo micronucleus assays by comparison with non-parametric methods,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+133,Statistical approach for comparison between methods of bacterial enumeration in drinking water,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+134,Comparison of Statistical Methods for Pretest-Posttest Designs in Terms of Type I Error Probability and Statistical Power    ,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+135,Statistical Analysis of Functional N euroimaging Data: Exploratory Versus Inferential Methods,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+136,"Influence of support on intra-abdominal pressure, hepatic kinetics of indocyanine green and extravascular lung water during prone positioning in patients with ARDS: a randomized crossover study",,,,,,,,,,,,,,,discarded,medicine
+137,Fitting Straight Lines with Replicated Observations by Linear Regression. IV. Transforming Data,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+138,LONGITUDINAL STUDY OF RELATIONS BETWEEN HUMAN SALIVARY ANTIMICROBIAL PROTEINS AND MEASURES OF DENTAL PLAQUE ACCUMULATION AND COMPOSITION,,,,,,,,,,,,,,,discarded,medicine
+139,Characterization of Partial Resistance to Black Spot Disease of Rosa sp.,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+140,Adaptive Box-Cox Transformation: A Highly Flexible Feature-Specific Data Transformation to Improve Metabolomics Data Normality for Better Statistical Analysis,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+141,An Alternative Data Transformation Approach for ADA Cut Point Determination: Why Not Use a Weibull Transformation?,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+142,Analysis of Particulate Matter (PM10) Behavior in the Caribbean Area Using a Coupled SARIMA-GARCH Model    ,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+143,"DESIGNING EXPERIMENTS AND ANALYZING DATA: A Model Comparison Perspective, Third Edition    ",,,,,,,,,,,,,,,discarded,book
+144,Design of EWMA control chart for monitoring transformed Rayleigh distributed data,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+145,Differences in Race Characteristics between World-Class Individual-Medley and Stroke-Specialist Swimmers,,,,,,,,,,,,,,,discarded,physical education
+146,Econometric analysis of model selection and model testing    ,,,,,,,,,,,,,,,discarded,book
+147,Genetic variability of meat quality characteristics in Japanese quail (Coturnix coturnix japonica),,,,,,,,,,,,,,,discarded,did not perform variance analysis
+148,Improving your data transformations: Applying Box-Cox transformations as a best practice,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+149,TAX RATE TO MAXIMIZE THE REVENUE: LAFFER CURVE FOR THE CZECH REPUBLIC,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+150,"SPEED Stat: a free, intuitive, and minimalist spreadsheet program for statistical analyses of experiments    ",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+151,Statistical analysis of pharmacokinetic data with special applications to bioequivalence studies,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+152,"Positional discrepancy, psychological discrepancy, and attitude change: Experimental tests of some mathematical models",,,,,,,,,,,,,,,discarded,psychology
+153,"Research design and statistical analysis, third edition    ",,,,,,,,,,,,,,,discarded,book
+154,"Similarity, classification and diversity “an Eternal Golden Braid” in quantitative vegetation studies    ",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+155,Pre-service teachers' understanding of culture in multicultural,,,,,,,,,,,,,,,discarded,It's not agrarian
+156,"Benthic community resilience in two differently impacted tropical
+estuaries: Taxonomic vs functional approaches",,,,,,,,,,,,,,,discarded,It's not agrarian
+157,"Hierarchical regression models for dendroclimatic standardization and
+climate reconstruction",,,,,,,,,,,,,,,discarded,It's not agrarian
+158,"Central composite design application in the optimization of the effect of
+waste foundry sand on concrete properties using RSM ",,,,,,,,,,,,,,,discarded,It's not agrarian
+159,The Robustness of the Modified H-Statistic in the Test of Comparing Independent Groups,,,,,,,,,,,,,,,discarded,It's not agrarian
+160,Stress-Reducing Effects of Playing a Casual Video Game among Undergraduate Students,,,,,,,,,,,,,,,discarded,It's not agrarian
+161,Preserving Colias myrmidone in European cultural landscapes: requirements for the successful development from egg to higher larval stages at a Natura 2000 site in Romania,,,,,,,,,,,,,,,discarded,It's not agrarian
+162,Drivers of reef fish assemblages in an upwelling region from the Eastern Tropical Pacific Ocean,,,,,,,,,,,,,,,discarded,It's not agrarian
+163,Assessing environmental pollution levels in marinas,,,,,,,,,,,,,,,discarded,It's not agrarian
+164,Chemical analysis and classification of black pepper (Piper nigrum L.) based on their country of origin using mass spectrometric methods and chemometrics ,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+165,Assessing aboveground carbon storage capacity in bamboo plantations with various species related to its affecting factors across Taiwan,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+166,"Tobacco Use Depictions in Popular Soviet and
+Post-Soviet Movies from 1950 to 2019: The Possible
+Impact of Restrictive Policies
+",,,,,,,,,,,,,,,discarded,It's not agrarian
+167,Spatio-Temporal Variability of Anthropogenic and Natural Wrack Accumulations along the Driftline: Marine Litter Overcomes Wrack in the Northern Sandy Beaches of Portugal,,,,,,,,,,,,,,,discarded,It's not agrarian
+168,"Spectrophotometric Analysis of Coronal Tooth Discoloration Induced by Tricalcium
+Silicate Cements in the Presence of Blood
+",,,,,,,,,,,,,,,discarded,It's not agrarian
+169,"You must choose, but choose wisely: Model-based approaches for microbial
+community analysis",,,,,,,,,,,,,,,discarded,It's not agrarian
+170,"Occurrence and abundance of meso and microplastics in sediment, surface waters, and marine biota from the South Pacific region",,,,,,,,,,,,,,,discarded,It's not agrarian
+171,Quantification of Scheduling Impact on Safety and Efficacy Outcomes of Brain Metastasis Radio- and Immuno-Therapies: A Systematic Review and Meta-Analysi,,,,,,,,,,,,,,,discarded,It's not agrarian
+172,Applications of weighted association networks applied to compositional data in biology,,,,,,,,,,,,,,,discarded,It's not agrarian
+173,Evaluating Spatiotemporal Resolution of Trace Element Concentrations and Pb Isotopic Compositions of Honeybees and Hive Products as Biomonitors for Urban Metal Distribution,,,,,,,,,,,,,,,discarded,It's not agrarian
+174,Morphological and genetic characterization of Mount Kenya brush-furred rats (Lophuromys Peters 1874); relevance to taxonomy and ecology,,,,,,,,,,,,,,,discarded,It's not agrarian
+175,Optimizing machining parameters of carbon steel EN24 to minimize surface roughness and tool wear,,,,,,,,,,,,,,,discarded,It's not agrarian
+176,Uncovering traits in recovering grasslands: A functional assessment of oil and gas well pad reclamation,,,,,,,,,,,,,,,discarded,It's not agrarian
+177,Statistical modeling methods: challenges and strategies,,,,,,,,,,,,,,,discarded,It's not agrarian
+178,Attention-Grabbing Power of Branded vs. Unbranded Packaging,,,,,,,,,,,,,,,discarded,It's not agrarian
+179,Linguistic indirectness in parent–preschooler reminiscing about emotion‐related events: Links with emotion regulation and psychosocial adjustment,,,,,,,,,,,,,,,discarded,It's not agrarian
+180,Optimization of the taxonomic resolution of an indicator taxon for costeffective ecological monitoring: Perspectives from a heterogeneous tropical coastline,,,,,,,,,,,,,,,discarded,It's not agrarian
+181,Spatial patterns of macrobenthic alpha and beta diversity at different scales in Italian transitional waters (central Mediterranean),,,,,,,,,,,,,,,discarded,It's not agrarian
+182,"Do Athletes Imagine Being the Best, or Crossing the Finish Line First? A Mixed Methods Analysis of Construal Levels in Elite Athletes’ Spontaneous Imagery",,,,,,,,,,,,,,,discarded,It's not agrarian
+183,Brazilian red propolis reduces orange-complex periodontopathogens growing in multispecies biofilms,,,,,,,,,,,,,,,discarded,It's not agrarian
+184,Early Optic Nerve Head Glial Proliferation and Jak-Stat Pathway Activation in Chronic Experimental Glaucoma,,,,,,,,,,,,,,,discarded,It's not agrarian
+185,Invertibility of the dual energy x-ray data transform,,,,,,,,,,,,,,,discarded,It's not agrarian
+186,No lexical competition without priming: Evidence from the picture–word interference paradigm,,,,,,,,,,,,,,,discarded,It's not agrarian
+187,"Characterising the invertebrate megafaunal assemblages of a deep-sea (200-3000 m) frontier region for oil and gas exploration: the Great Australian Bight, Australia",,,,,,,,,,,,,,,discarded,It's not agrarian
+188,Preserved but Less Efficient Control of Response Interference After Unilateral Lesions of the Striatum,,,,,,,,,,,,,,,discarded,It's not agrarian
+189,Statistical evaluation of the geochemical variability in overbank sediments in Spain,,,,,,,,,,,,,,,discarded,It's not agrarian
+190,Temperament and characteristics related to nomophobia,,,,,,,,,,,,,,,discarded,It's not agrarian
+191,Experimental design and analysis and their reporting II: updated and simplified guidance for authors and peer reviewers,,,,,,,,,,,,,,,discarded,It's not agrarian
+192,FACTOR MODELS AND TIME-VARYING PARAMETER FRAMEWORK FOR FORECASTING EXCHANGE RATES AND INFLATION: A SURVEY,,,,,,,,,,,,,,,discarded,It's not agrarian
+193,Chapter 8: The Analysis of Combined Experiments,,,,,,,,,,,,,,,discarded,It's not agrarian
+194,Count data in biology—Data transformation or model reformation?,,,,,,,,,,,,,,,discarded,It's not agrarian
+195,Land use affected nutrient mass with minor impact on stoichiometry ratios in Pampean soils,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+196,Differences in magnitude and spatial extent of impact of tuna farming on benthic macroinvertebrate assemblages,,,,,,,,,,,,,,,discarded,It's not agrarian
+197,A Guide to Robust Statistical Methods in Neuroscience,,,,,,,,,,,,,,,discarded,It's not agrarian
+198,Clustering of RNA-Seq Samples: Comparison Study on Cancer Data,,,,,,,,,,,,,,,discarded,It's not agrarian
+199,Assessing the spatial variation of functional diversity estimates based on dendrograms in phytoplankton communities ,,,,,,,,,,,,,,,discarded,It's not agrarian
+200,Long-term decline of brown algal assemblages from southern Brazil under the influence of a nuclear power plant,,,,,,,,,,,,,,,discarded,It's not agrarian
+201,Taxonomic and numerical sufficiency in depth- and salinitycontrolled marine paleocommunities,,,,,,,,,,,,,,,discarded,It's not agrarian
+202,Modelling plankton ecosystems in the meta-omics era. Are we ready?,,,,,,,,,,,,,,,discarded,It's not agrarian
+203,Rapid bioassessment of macroinvertebrate communities is suitable for monitoring the impacts of fish farm effluents,,,,,,,,,,,,,,,discarded,It's not agrarian
+204,"Analysis of variance, normal quantile-quantile correlation and effective expression support of pooled expression ratio of reference genes for defining expression stability",,,,,,,,,,,,,,,discarded,It's not agrarian
+205,Assessing the internal consistency of the event-related potential: An example analysis,,,,,,,,,,,,,,,discarded,It's not agrarian
+206,Enhancing predictive accuracy and reproducibility in clinical evaluation research,,,,,,,,,,,,,,,discarded,It's not agrarian
+207,Linking educational leadership styles to the HR architecture for new teachers in primary education,,,,,,,,,,,,,,,discarded,It's not agrarian
+208,Do handwritten words magnify lexical effects in visual-word recognition?,,,,,,,,,,,,,,,discarded,It's not agrarian
+209,Corrigendum to “Reproductive and behavioral effects of diisononyl phthalate (DINP) in perinatally exposed rats”,,,,,,,,,,,,,,,discarded,It's not agrarian
+210,Cognition and functioning in bipolar depression,,,,,,,,,,,,,,,discarded,It's not agrarian
+211,Land use changes in an afrotropical biodiversity hotspot affect stream alpha and beta diversity,,,,,,,,,,,,,,,discarded,It's not agrarian
+212,Are intertidal soft sediment assemblages affected by repeated oil spill events? A field-based experimental approach,,,,,,,,,,,,,,,discarded,It's not agrarian
+213,Taxonomic sufficiency in a live-dead agreement study in a tropical settin,,,,,,,,,,,,,,,discarded,It's not agrarian
+214,Co-occurrences of EDCs/PPCPs in Surface Water Using Chemometrics,,,,,,,,,,,,,,,discarded,It's not agrarian
+215,Changes in Internal Variability Due to Anthropogenic Forcing: 2 A New Field Significance Test,,,,,,,,,,,,,,,discarded,It's not agrarian
+216,27 Methodology,,,,,,,,,,,,,,,discarded,It's not an article
+217,Within-day time-varying associations between behavioral cognitions and physical activity in adults,,,,,,,,,,,,,,,discarded,It's not agrarian
+218,"THE USE OF STATISTICAL SOFTWARE IN FOOD SCIENCE AND TECHNOLOGY: ADVANTAGES, LIMITATIONS AND MISUSES",,,,,,,,,,,,,,,discarded,It's not agrarian
+219,"Always Vote for Principle, Though You May Vote Alone: Explaining United States Political Support for Multilateral Development Loans",,,,,,,,,,,,,,,discarded,It's not agrarian
+220,Heritable Environmental Variance Causes Nonlinear Relationships Between Traits: Application to Birth Weight and Stillbirth of Pigs,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+221,"Analysis of sampling methods of estuarine benthic macrofaunal assemblages: sampling gear, mesh size, and taxonomic resolution",,,,,,,,,,,,,,,discarded,It's not agrarian
+222,Longitudinal variation and effects of habitat on biodiversity of Australasian temperate reef fishes,,,,,,,,,,,,,,,discarded,It's not agrarian
+223,Title: Efficacy of free and nanoencapsulated Eucalyptus citriodora essential oils on sheep gastrointestinal nematodes and toxicity for mice,,,,,,,,,,,,,,,discarded,It's not agrarian
+224,Impact of severe extracranial ICA stenosis on MRI perfusion and diffusion parameters in acute ischemic stroke,,,,,,,,,,,,,,,discarded,It's not agrarian
+225,"Optimisation of net profit with uncertain inputs in manufacturing environments by integration of neural networks, genetic algorithm and fuzzy regression",,,,,,,,,,,,,,,discarded,It's not agrarian
+226,Modified H-statistic with Adaptive Winsorized Mean in Two Groups Test,,,,,,,,,,,,,,,discarded,It's not agrarian
+227,Leaf litter decomposition of native and introduced tree species of contrasting quality in headwater streams: How does the regional setting matter?,,,,,,,,,,,,,,,discarded,It's not agrarian
+228,Testing the Predictive Validity of the GRE Exam on Communication Graduate Student Success: A Case Study at University at Buffalo,,,,,,,,,,,,,,,discarded,It's not agrarian
+229,MINERALOGY OF EGYPTIAN BENTONITIC CLAYS I: DISCRIMINANT FUNCTION ANALYSIS,,,,,,,,,,,,,,,discarded,It's not agrarian
+230,Spectral monitoring of two-spotted spider mite damage to pepper leaves,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+231,Geochemical mapping using stream sediments in west-central Nigeria: Implications for environmental studies and mineral exploration in West Africa,,,,,,,,,,,,,,,discarded,It's not agrarian
+232,Field-based insights to the evolution of specialization: plasticity and fitness across habitats in a specialist/generalist species pair,,,,,,,,,,,,,,,discarded,It's not agrarian
+233,Taxonomic relatedness does not matter for species surrogacy in the assessment of community responses to environmental drivers,,,,,,,,,,,,,,,discarded,It's not agrarian
+234,Optimization of the processing parameters in melt blending of thermoplastic polyurethane and poly dimethyl siloxane rubber,,,,,,,,,,,,,,,discarded,It's not agrarian
+235,Distance-based multivariate analyses confound location and dispersion effects,,,,,,,,,,,,,,,discarded,It's not agrarian
+236,Influence of preoperative anxiety on hypotension after spinal anaesthesia in women undergoing Caesarean delivery,,,,,,,,,,,,,,,discarded,It's not agrarian
+237,Using Eye-tracking and Mouse Metrics to Test Usability of Web Mapping Navigation,,,,,,,,,,,,,,,discarded,It's not agrarian
+238,Long-term changes in North Adriatic soft-bottom polychaete assemblages following a dystrophic crisis,,,,,,,,,,,,,,,discarded,It's not agrarian
+239,Toward a framework of integrated knowledge of terrestrial vegetation system: The role of databases of phytosociological releve´s,,,,,,,,,,,,,,,discarded,It's not agrarian
+240,Soil Microbial Community Successional Patterns during Forest Ecosystem Restoration,,,,,,,,,,,,,,,discarded,It's not agrarian
+241,Can similarity theory contribute to the development of a general theory of the plan?,,,,,,,,,,,,,,,discarded,It's not agrarian
+242,The use of coarser taxonomy in the detection of long-term changes in polychaete assemblages,,,,,,,,,,,,,,,discarded,It's not agrarian
+243,Social vision: Sustained perceptual enhancement of affective facial cues in social anxiety,,,,,,,,,,,,,,,discarded,It's not agrarian
+244,"A hybrid fuzzy mathematical programming-design of experiment framework for improvement of energy consumption estimation with small data sets and uncertainty: The cases of USA, Canada, Singapore, Pakistan and Iran",,,,,,,,,,,,,,,discarded,It's not agrarian
+245,When Can Information From Ordinal Scale Variables Be Integrated?,,,,,,,,,,,,,,,discarded,It's not agrarian
+246,CHARACTERIZING SELECTION ON PHENOTYPIC PLASTICITY IN RESPONSE TO NATURAL ENVIRONMENTAL HETEROGENEITY,,,,,,,,,,,,,,,discarded,It's not agrarian
+247,Adverse experiences in childhood influence brain responses to emotional stimuli in adult psychiatric patients,,,,,,,,,,,,,,,discarded,It's not agrarian
+248,Heterotrimeric G proteins regulate reproductive trait plasticity in response to water availability,,,,,,,,,,,,,,,discarded,It's not agrarian
+249,Measuring Homonegativity: A Psychometric Analysis,,,,,,,,,,,,,,,discarded,It's not agrarian
+250,A flexible fuzzy regression algorithm for forecasting oil consumption estimation,,,,,,,,,,,,,,,discarded,It's not agrarian
+251,"Difficulties in separating hurricane induced effects from natural benthic succession: Hurricane Isabel, a case study from Eastern Virginia, USA",,,,,,,,,,,,,,,discarded,It's not agrarian
+252,Taxonomic sufficiency in the detection of natural and human-induced changes in marine assemblages: A comparison of habitats and taxonomic groups,,,,,,,,,,,,,,,discarded,It's not agrarian
+253,Understanding the consequences of seed dispersal in a heterogeneous environment,,,,,,,,,,,,,,,discarded,Does not identify the transformation
+254,Variance estimate and taxonomic resolution: An analysis of macrobenthic spatial patterns at different scales in a Western Mediterranean coastal lagoon,,,,,,,,,,,,,,,discarded,It's not agrarian
+255,Comparing efficacy of different taxonomic resolutions and surrogates in detecting changes in soft bottom assemblages due to coastal defence structures,,,,,,,,,,,,,,,discarded,It's not agrarian
+256,Melatonin improves placental efficiency and birth weight and increases the placental expression of antioxidant enzymes in undernourished pregnancy,,,,,,,,,,,,,,,discarded,It's not agrarian
+257,Effect of Subjective Preoperative Variables on Risk-Adjusted Assessment of Hospital Morbidity and Mortality,,,,,,,,,,,,,,,discarded,It's not agrarian
+258,Early locomotor and social effects in vasopressin deficient neonatal rats,,,,,,,,,,,,,,,discarded,It's not agrarian
+259,Preservation of spatial and environmental gradients by death assemblages,,,,,,,,,,,,,,,discarded,It's not agrarian
+260,Performance of indicators and the effect of grain size in the discrimination of plant communities for restoration pu,,,,,,,,,,,,,,,discarded,Does not identify the transformation
+261,Bone healing in critical-size defects treated with platelet-rich plasma activated by two different methods. A histologic and histometric study in rat calvaria,,,,,,,,,,,,,,,discarded,It's not agrarian
+262,Effects of a brine discharge over soft bottom Polychaeta assemblage,,,,,,,,,,,,,,,discarded,It's not agrarian
+263,Impacts of a woody invader vary in different vegetation communities,,,,,,,,,,,,,,,discarded,It's not agrarian
+264,Effects of offshore platforms on soft-bottom macro-benthic assemblages: A case study in a Mediterranean gas field,,,,,,,,,,,,,,,discarded,It's not agrarian
+265,Disturbance-driven changes in the variability of ecological patterns and processes,,,,,,,,,,,,,,,discarded,It's not agrarian
+266,Detection and Identification of Bacteria in an Isolated System with Near-Infrared Spectroscopy and Multivariate Analysis,,,,,,,,,,,,,,,discarded,It's not agrarian
+267,Isolating global and speciWc factors in developmental dyslexia: a study based on the rate and amount model (RAM),,,,,,,,,,,,,,,discarded,It's not agrarian
+268,Detecting the effects of environmental change above the species level with beetles in a fragmented tropical rainforest landscape,,,,,,,,,,,,,,,discarded,It's not agrarian
+269,Effective analysis of reaction time data,,,,,,,,,,,,,,,discarded,It's not agrarian
+270,Quantitative assessment of the success of geochemical exploration techniques using minimum probability methods,,,,,,,,,,,,,,,discarded,It's not agrarian
+271,Refining the definition of cultural levels at Karabi Tamchin: a quantitative approach to vertical intra-site spatial analysis,,,,,,,,,,,,,,,discarded,It's not agrarian
+272,Design and Analysis in Benthic Surveys,,,,,,,,,,,,,,,discarded,It's not agrarian
+273,Key aspects of analysing microarray gene-expression data,,,,,,,,,,,,,,,discarded,It's not agrarian
+274,The Influence of Time Interval between Bleaching and Enamel Bonding,,,,,,,,,,,,,,,discarded,It's not agrarian
+275,Combining Quantitative Trait and Gene-Expression Data,,,,,,,,,,,,,,,discarded,It's not agrarian
+276,Benthos Sediment Quality Assessments,,,,,,,,,,,,,,,discarded,It's not agrarian
+277,Spatial and temporal changes in infaunal communities inhabiting soft-bottoms affected by brine discharge,,,,,,,,,,,,,,,discarded,It's not agrarian
+278,Maternal melatonin stimulates growth and prevents maturation of the capuchin monkey fetal adrenal gland,,,,,,,,,,,,,,,discarded,It's not agrarian
+279,Gene–Environment Interactions Fundamentals of Ecogenetics,,,,,,,,,,,,,,,discarded,book
+280,Corticospinal facilitation during first and third person imagery,,,,,,,,,,,,,,,discarded,It's not agrarian
+281,Cancer Diagnostics with DNA Microarrays,,,,,,,,,,,,,,,discarded,It's not agrarian
+282,Classifying Eucalyptus forests with high spatial and spectral resolution imagery: an investigation of individual species and vegetation communities,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+283,Constraints on spatial variability in soft-sediment communities affected by contamination from an Antarctic waste disposal site,,,,,,,,,,,,,,,discarded,It's not agrarian
+284,Wavelet variance components in image space for spatiotemporal neuroimaging data,,,,,,,,,,,,,,,discarded,It's not agrarian
+285,EEG phase synchrony differences across visual perception conditions may depend on recording and analysis methods,,,,,,,,,,,,,,,discarded,It's not agrarian
+286,Fitting Straight Lines with Replicated Observations by Linear Regression: Part II. Testing for Homogeneity of Variances,,,,,,,,,,,,,,,discarded,It's not agrarian
+287,"One set of sounds, two tonotopic maps: exploring auditory cortex with amplitude-modulated tones",,,,,,,,,,,,,,,discarded,It's not agrarian
+288,Neuronal Synchronization and Selective Color Processingin the Human Brain,,,,,,,,,,,,,,,discarded,It's not agrarian
+289,Analysis of DNA Microarray Data,,,,,,,,,,,,,,,discarded,It's not agrarian
+290,"A MANOVA STATISTIC IS JUST AS POWERFUL AS DISTANCE-BASED STATISTICS, FOR MULTIVARIATE ABUNDANCES",,,,,,,,,,,,,,,discarded,It's not agrarian
+291,To Transform or Not Transform Skewed Data for Psychometric Analysis,,,,,,,,,,,,,,,discarded,It's not agrarian
+292,Modern Robust Data Analysis Methods: Measures of Central Tendency,,,,,,,,,,,,,,,discarded,It's not agrarian
+293,"Human impacts in soft-sediment assemblages at Casey Station, East Antarctica: Spatial variation, taxonomic resolution and data transformation",,,,,,,,,,,,,,,discarded,It's not agrarian
+294,Statistical tests for differential expression in cDNA microarray experiments,,,,,,,,,,,,,,,discarded,It's not agrarian
+295,Human impacts in Antartic marine soft-sediment assemblages: correlations between multivariate biological patterns and environmental variables at Casey Station,,,,,,,,,,,,,,,discarded,It's not agrarian
+296,"A practical protocol to assess impacts of unplanned disturbance: a case study in Tuggerah Lakes Estuary, NSW",,,,,,,,,,,,,,,discarded,It's not agrarian
+297,The effects of petroleum hydrocarbon and heavy metal contamination of marine sediments on recruitment of Antarctic soft-sediment assemblages: a field experimental investigation,,,,,,,,,,,,,,,discarded,It's not agrarian
+298,Early modulation of visual perception by emotional arousal: Evidence from steady-state visual evoked brain potentials,,,,,,,,,,,,,,,discarded,It's not agrarian
+299,Analysis of Variance Frameworks in Clinical Child and Adolescent Psychology: Advanced Issues and Recommendations,,,,,,,,,,,,,,,discarded,It's not agrarian
+300,A case-control study of the impact of WBC reduction on the cost of hospital care for patients undergoing coronary artery bypass graft surgery,,,,,,,,,,,,,,,discarded,It's not agrarian
+301,"Patterns of Distribution of Macro-fauna in Different Types of Estuarine, Soft Sediment Habitats Adjacent to Urban and Non-urban Areas",,,,,,,,,,,,,,,discarded,It's not agrarian
+302,The Persistence of Structural Priming: Transient Activation or Implicit Learning?,,,,,,,,,,,,,,,discarded,It's not agrarian
+303,"Extended Visual Fixation in the Early Preschool Years: Look Duration, Heart Rate Changes, and Attentional Inertia",,,,,,,,,,,,,,,discarded,It's not agrarian
+304,Improving sampling designs for measuring restoration in aquatic habitats,,,,,,,,,,,,,,,discarded,It's not agrarian
+305,A Comparison of Methods for Estimating the Benchmark Dose Based on Overdispersed Data from Developmental Toxicity Studies,,,,,,,,,,,,,,,discarded,It's not agrarian
+306,Among-environment heteroscedasticity and the estimation and testing of genetic correlation,,,,,,,,,,,,,,,discarded,It's not agrarian
+307,Evaluation of Censored Data Methods To Allow Statistical Comparisons among Very Small Samples with Below Detection Limit Observations,,,,,,,,,,,,,,,discarded,It's not agrarian
+308,Statistical analysis of the lacI transgenic mouse mutagenicity assay,,,,,,,,,,,,,,,discarded,It's not agrarian
+309,Analysis of vesicular-arbuscular mycorrhizal colonization data with a logistic regression model,,,,,,,,,,,,,,,discarded,It's not agrarian
+310,SILICA EXPOSURE INCREASES EXPRESSION OF PULMONARY INTERCELLULAR ADHESION MOLECULE 1 ICAM 1 IN C57Bl 6 MICE,,,,,,,,,,,,,,,discarded,It's not agrarian
+311,ANOVA: A Paradigm for Low Power and Misleading Measures of Effect Size?,,,,,,,,,,,,,,,discarded,It's not agrarian
+312,Methodological and Statistical Considerations for Exercise-Related Hormone Evaluations,,,,,,,,,,,,,,,discarded,It's not agrarian
+313,The effect of body position on bioelectrical resistance in individuals with spinal cord injury,,,,,,,,,,,,,,,discarded,It's not agrarian
+314,Shrub Communities as in Southern Quebec,,,,,,,,,,,,,,,discarded,It's not agrarian
+315,Principles for Griffing's combining ability analysis,,,,,,,,,,,,,,,discarded,It's not agrarian
+316,Sequential Transformation for Multiple Traits for Estimation of (Co)variance Components with a Derivative-Free Algorithm for Restricted Maximum Likelihood,,,,,,,,,,,,,,,discarded,It's not agrarian
+317,Acetylation phenotype and cytochrome P450IA2 phenotvpe are unlikelv to be J'. associated'with peripheral arterd disease,,,,,,,,,,,,,,,discarded,It's not agrarian
+318,Contributions to the design and statistical analysis of in vivo SCE experiments,,,,,,,,,,,,,,,discarded,It's not agrarian
+319,Assertive Community Treatment for Frequent Users of Psychiatric Hospitals in a Large City: A Controlled Study 1,,,,,,,,,,,,,,,discarded,It's not agrarian
+320,Chemometrics,,,,,,,,,,,,,,,discarded,It's not agrarian
+321,Topographic EEG changes with normal aging and SDAT,,,,,,,,,,,,,,,discarded,It's not agrarian
+322,Signalling systems for individual recognition: an information theory approach,,,,,,,,,,,,,,,discarded,It's not agrarian
+323,Decisions Based on Numerically and Verbally Expressed Uncertainties,,,,,,,,,,,,,,,discarded,It's not agrarian
+324,A New Fiducial Limits of a Single Plankton Sample,,,,,,,,,,,,,,,discarded,It's not agrarian
+325,Problems in the variance analysis of nine environmental monitoring variables: Determining the number of samples needed to detect a change in mean of 50%.,,,,,,,,,,,,,,,discarded,It's not agrarian
+326,TAT Measures of Gender Identity (Castration Anxiety) in Father-Absent Males,,,,,,,,,,,,,,,discarded,It's not agrarian
+327,A SIMULATION PROGRAM EXAMINING THE USE OF RATIOS AS RAW VARIABLES IN ANALYSES OF VARIANCE,,,,,,,,,,,,,,,discarded,It's not agrarian
+328,CONTINUOUS MULTIVARIATE METHODS IN COMMUNITY ANALYSIS: SOME PROBLEMS AND DEVELOPMENTS,,,,,,,,,,,,,,,discarded,It's not agrarian
+329,Ratio Data and the Quantification of Drug Effects,,,,,,,,,,,,,,,discarded,It's not agrarian
+330,On the Effect of Using Ratios in the Analysis of Variance,,,,,,,,,,,,,,,discarded,It's not agrarian
+331,DOES THE LAW OF INlTIAL VALUE APPLY TO THE GALVANIC SKIN RESPONSE?,,,,,,,,,,,,,,,discarded,It's not agrarian
+332,Forty-five Northern Irish Families: A Cephalometric Radiographic Study ,,,,,,,,,,,,,,,discarded,It's not agrarian
+333,Studies in Interactive Communication: I. The Effects of Four Communication Modes on the Behavior of Teams During Cooperative Problem-Solving,,,,,,,,,,,,,,,discarded,It's not agrarian
+334,CONSEQUENCES OF FAILURE TO MEET ASSUMPTIONS UNDERLYING THE FIXED EFFECTS ANALYSES OF VARIANCE AND COVARIANCE,,,,,,,,,,,,,,,discarded,It's not agrarian
+335,TEMPORARY FATIGUE EFFECTS IN A GROSS MOTOR SKILL,,,,,,,,,,,,,,,discarded,It's not agrarian
+336,Hidden Diversity of Crown Rust Resistance within Genebank Resources of Avena sterilis L.,,,,,,,,,,,,,,,discarded,It's not agrarian
+337,Ecological responses of two shrimp populations (Palaemonidae) to seasonal abiotic factor variations in a Brazilian semiarid reservoir,,,,,,,,,,,,,,,discarded,It's not agrarian
+338,Broiler carcass condemnation pattern during processing,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+339,"Glyphosate, trinexapac-ethyl, and mepiquat chloride on the productive performance of bush snap beans",,,,,,,,,,,,,,,discarded,Does not perform data transformation
+340,Effects of terrain slope and aspect on the error of ALS-based predictions of forest attributes,,,,,,,,,,,,,,,discarded,It's not agrarian
+341,Knowledge-based digital soil mapping for predicting soil properties in two representative watersheds,,,,,,,,,,,,,,,discarded,It's not agrarian
+342,Computerized image analysis of seedlings to evaluate broccoli seed vigor,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+343,Variation in the size of fusiform cambial initials and vessel members in Hoheria angustifolia Raoul,,,,,,,,,,,,,,,discarded,It's not agrarian
+344,An intuitive explanation of generalised linear models,,,,,,,,,,,,,,,discarded,It's not agrarian
+345,Occurrence and Distribution of Bioluminescent Bacteria in the Seto Inland Sea,,,,,,,,,,,,,,,discarded,It's not agrarian
+346,Statistical Methods for Detecting Ichthyoplankton Density Patterns that Influence Entrainment Mortality,,,,,,,,,,,,,,,discarded,It's not agrarian
+347,INFLUENCE OF COARSE WOODY DEBRIS ON THE GASTROPOD COMMUNITY OF A MANAGED CALCAREOUS BEECH FOREST IN WESTERN EUROPE,,,,,,,,,,,,,,,discarded,It's not agrarian
+348,Spatial and temporal changes in the assemblage structure of fishes associated to fish aggregation devices in the Western Mediterranean,,,,,,,,,,,,,,,discarded,It's not agrarian
+349,Throughfall in balsam fir: Some landscape-scale implications in western Newfoundland,,,,,,,,,,,,,,,discarded,It's not agrarian
+350,Consequences of size structure in the prey for predator– prey dynamics: the composite functional response,,,,,,,,,,,,,,,discarded,It's not agrarian
+351,"Sun and shade leaves of Olea europaea respond differently to plant size, light availability and genetic variation",,,,,,,,,,,,,,,discarded,Does not identify the transformation
+352,Development of microorganisms during storage of wet brewery waste under aerobic and anaerobic conditions,,,,,,,,,,,,,,,discarded,It's not agrarian
+353,"Insects of the Subfamily Scolytinae (Insecta: Coleoptera, Curculionidae) Collected with Pitfall and Ethanol Traps in Primary Forests of Central Amazonia",,,,,,,,,,,,,,,discarded,It's not agrarian
+354,"Decomposition during autumn foliage leaf-fall in wetlands situated along a biogeochemical gradient in Pennsylvania, USA",,,,,,,,,,,,,,,discarded,It's not agrarian
+355,Genetic parameters and clonal variation in growth and nutritional traits of containerized white spruce somatic seedlings,,,,,,,,,,,,,,,discarded,It's not agrarian
+356,Variability of alder-dominated forest vegetation along a latitudinal gradient in Slovakia,,,,,,,,,,,,,,,discarded,It's not agrarian
+357,Morphological differentiation supports the genetic pattern of the geographic structure of Juniperus thurifera (Cupressaceae),,,,,,,,,,,,,,,discarded,It's not agrarian
+358,Sexual dimorphism in the relative growth of the claw weight of adult Chinese mitten crab (Eriocheir sinensis). A generalized least squares approach,,,,,,,,,,,,,,,discarded,It's not agrarian
+359,Downy Brome (Bromus tectorum) Control with Imazapic on Montana Grasslands,,,,,,,,,,,,,,,discarded,It's not agrarian
+360,"Ciliate Diversity, Community Structure, and Novel Taxa in Lakes of the McMurdo Dry Valleys, Antarctica",,,,,,,,,,,,,,,discarded,It's not agrarian
+361,Effects of elevation and nitrogen and phosphorus fertilization on plant defence compounds in subarctic tundra heath vegetation,,,,,,,,,,,,,,,discarded,It's not agrarian
+362,Biometry and germination of Balfourodendron riedelianum Eng. Eng.1,,,,,,,,,,,,,,,discarded,It's not agrarian
+363,Seed cryopreservation of Passiflora species,,,,,,,,,,,,,,,discarded,It's not agrarian
+364,Leaf anatomy of emerald grass submitted to quantitative application of herbicides,,,,,,,,,,,,,,,discarded,It's not agrarian
+365,Genetic parameter estimates and identification of superior white maize populations,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+366,TWO-SAMPLE AND ANOVA TESTS FOR HIGH DIMENSIONAL MEANS1,,,,,,,,,,,,,,,discarded,It's not agrarian
+367,A Non Parametric Data Transformation Technique for Quantitative Genetic Analyses: The Rank Transformation,,,,,,,,,,,,,,,discarded,It's not agrarian
+368,Good statistical practice in pharmacology Problem 2,,,,,,,,,,,,,,,discarded,It's not agrarian
+369,Using Predictive Modeling and Classification Methods for Single and Overlapping Bead Laser Cladding to Understand Bead Geometry to Process Parameter Relationships,,,,,,,,,,,,,,,discarded,It's not agrarian
+370,"Baseline concentrations of As, Ba, Be, Li, Nb, Sr and V in surface soils of Poland",,,,,,,,,,,,,,,discarded,It's not agrarian
+371,PROPAGATION OF THREE VARIETIES OF STAR FRUIT BY HERBACEOUS CUTTING,,,,,,,,,,,,,,,discarded,It's not agrarian
+372,Rank Regression for Analyzing Ordinal Qualitative Data for Treatment Comparison,,,,,,,,,,,,,,,discarded,It's not agrarian
+373,Measuring the impact of sewage effluent on the macroinvertebrate community of an upland stream: The effect of different levels of taxonomic resolution and quantification,,,,,,,,,,,,,,,discarded,It's not agrarian
+374,A Comparison of the Discoloration Potential for EndoSequence Bioceramic Root Repair Material Fast Set Putty and ProRoot MTA in HumanTeeth: An InVitro Study,,,,,,,,,,,,,,,discarded,It's not agrarian
+375,University students’ changes in mental health status and determinants of behavior during the COVID-19 lockdown in Greece,,,,,,,,,,,,,,,discarded,It's not agrarian
+376,Autogenous Bone Graft With or Without a Calcium Sulfate Barrier in the Treatment of Class II Furcation Defects: A Histologic and Histometric Study in Dogs,,,,,,,,,,,,,,,discarded,It's not agrarian
+377,Spectrophotometric Analysis of Coronal Tooth Discoloration Induced by Various Bioceramic Cements and Other Endodontic Materials,,,,,,,,,,,,,,,discarded,It's not agrarian
+378,Development of empirical model for different process parameters during rotary electrical discharge machining of copper–steel (EN-8) system,,,,,,,,,,,,,,,discarded,It's not agrarian
+379,Plasma cellular fibronectin as a measure of endothelial involvement in preeclampsia and intrauterine growth retardation,,,,,,,,,,,,,,,discarded,It's not agrarian
+380,Influence of MDPB-containing Primer on Streptococcus Mutans Biofilm Formation in Simulated Class I Restorations,,,,,,,,,,,,,,,discarded,It's not agrarian
+381,Spectrophotometric analysis of crown discoloration induced by MTA- and ZnOE-based sealers,,,,,,,,,,,,,,,discarded,It's not agrarian
+382,Averaging auditory evoked magnetoencephalographic and electroencephalographic responses: a critical discussion,,,,,,,,,,,,,,,discarded,It's not agrarian
+383,"MODELLING THE INTERACTIVE EFFECTS OF ALUMINUM, CADMIUM, MANGANESE, NICKEL AND ZINC STRESS USING THE WEIBULL FREQUENCY DISTRIBUTION",,,,,,,,,,,,,,,discarded,It's not agrarian
+384,Erosivity indicators based on rainfall in Northwestern Mexico,,,,,,,,,,,,,,,discarded,It's not agrarian
+385,Pharmacokinetic and bioequivalence evaluation of two formulations of 100 mg trimebutine maleate (Recutin™ and Polybutin™) in healthy male volunteers using the LC–MS/MS method,,,,,,,,,,,,,,,discarded,It's not agrarian
+386,A Comparative Study of the Accuracy between Plastic and Metal Impression Transfer Copings for Implant Restorations,,,,,,,,,,,,,,,discarded,It's not agrarian
+387,"Ice-avalanche scenario elaboration and uncertainty propagation in numerical simulation of rock-/ice-avalanche-induced impact waves at Mount Hualcán and Lake 513, Peru",,,,,,,,,,,,,,,discarded,It's not agrarian
+388,Pruning of small fruit crops can affect habitat suitability for Drosophila suzukii,,,,,,,,,,,,,,,discarded,It's not agrarian
+389,Analysis of Astragalus Polysaccharide Intervention in Heat-Stressed Dairy Cows’ Serum Metabolomics,,,,,,,,,,,,,,,discarded,It's not agrarian
+390,Effect of age on the relationship between metabolizable energy and digestible energy for broiler chickens,,,,,,,,,,,,,,,discarded,It's not agrarian
+391,"Effective Analysis of Interactive Effects with Non-Normal Data Using the Aligned Rank Transform, ARTool and SAS® University Edition",,,,,,,,,,,,,,,discarded,It's not agrarian
+392,Technological properties of particleboards produced using mixture of pines and bamboo,,,,,,,,,,,,,,,discarded,It's not agrarian
+393,GAS EXCHANGE AND PHOTOCHEMICAL EFFICIENCY IN LIMA BEAN GENOTYPES GROWN IN COMPACTED SOILS,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+394,NILE TILAPIA FED ENZYME COMPLEX ADDED AT DIFFERENT LEVELS AND PROCESSING STEPS,,,,,,,,,,,,,,,discarded,It's not agrarian
+395,Spectral-temporal characterization of wheat cultivars through NDVI obtained by terrestrial sensors,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+396,"Association between ambient temperature and humidity, vaginal temperature, and automatic activity monitoring on induced estrus in lactating cows",,,,,,,,,,,,,,,discarded,It's not agrarian
+397,Intravaginal instillation of gonadotropin-releasing hormone analogues with an absorption enhancer induced a surge of luteinizing hormone in lactating dairy cows,,,,,,,,,,,,,,,discarded,It's not agrarian
+398,"SPECTRUM, VELOCITY AND DRIFT OF DROPLETS SPRAYED BY NOZZLES WITH AND WITHOUT AIR INDUCTION AND MINERAL OIL",,,,,,,,,,,,,,,discarded,It's not agrarian
+399,Rbio: A tool for biometric and statistical analysis using the R platform,,,,,,,,,,,,,,,discarded,It's not agrarian
+400,The effect of dietary lysozyme with EDTA on growth performance and intestinal microbiota of broiler chickens in each period of the growth cycle,,,,,,,,,,,,,,,discarded,It's not agrarian
+401,Instability of the expression of morphological and phenological descriptors to environmental variation in white oat,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+402,A Comparative Study of Root System Architecture in Seedlings of Brachypodium spp. Using Three Plant Growth Supports,,,,,,,,,,,,,,,discarded,It's not agrarian
+403,The periparturient period is associated with structural and transcriptomic adaptations of rumen papillae in dairy cattle,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+404,Can Analysis of Variance Be More Signifi cant?,,,,,,,,,,,,,,,discarded,It's not agrarian
+405,Effect of moving dairy cows at different stages of labor on behavior during parturition,,,,,,,,,,,,,,,discarded,It's not agrarian
+406,Redirected behavior in learning tasks: the commercial laying hen (Gallus gallus domesticus) as model,,,,,,,,,,,,,,,discarded,It's not agrarian
+407,Phenotypic and Genetic Influences on Test-Day Measures of Acetone Concentration in Milk,,,,,,,,,,,,,,,discarded,It's not agrarian
+408,"Abundance of thraustochytrids and ciliated protozoans in a Mediterranean sandy shore determined by an improved, direct method",,,,,,,,,,,,,,,discarded,It's not agrarian
+409,Alternative for the evaluation of coffee seedlings using Fisher’s discriminant analysis,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+410,Appropriate levels of taxonomic discrimination in deep-sea studies: species vs family,,,,,,,,,,,,,,,discarded,It's not agrarian
+411,Benthic studies in LTER sites: the use of taxonomy surrogates in the detection of long-term changes in lagoonal benthic assemblages,,,,,,,,,,,,,,,discarded,It's not agrarian
+412,NON-PARAMETRIC STATISTICAL METHODS AND DATA TRANSFORMATIONS IN AGRICULTURAL PEST POPULATION STUDIES,,,,,,,,,,,,,,,discarded,It's not agrarian
+413,Castration Fantasies and Assertiveness in FatherAbsent Males,,,,,,,,,,,,,,,discarded,It's not agrarian
+414,Comparison of Different Tolerance Indices and PCA Biplot Analysis for Assessment of Salinity Tolerance in Lentil (Lens culinaris) Genotypes,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+415,Comparison of non-parametric indexes to select soybean genotypes obtained by recurrent selection,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+416,Compositional Dynamics of Gastrointestinal Tract Microbiomes Associated with Dietary Transition and Feeding Cessation in Lake Sturgeon Larvae,,,,,,,,,,,,,,,discarded,It's not agrarian
+417,Detecting strong spatial and temporal variation in macrobenthic composition on an urban shelf using taxonomic surrogates,,,,,,,,,,,,,,,discarded,It's not agrarian
+418,Distinction of nektonic and benthic communities between fish-present (Salvelinus fontinalis) and natural fishless lakes,,,,,,,,,,,,,,,discarded,It's not agrarian
+419,"Evaluation of geostatistical method and hybrid Artificial Neural Network with imperialist competitive algorithm for predicting distribution pattern of Tetranychus urticae (Acari: Tetranychidae) in cucumber field of Behbahan, Iran",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+420,Implications of macroinvertebrate taxonomic resolution for freshwater assessments using functional traits: The Paute River Basin (Ecuador) case,,,,,,,,,,,,,,,discarded,It's not agrarian
+421,EFFECT OF TRAFFIC INTENSITIES OF A DIRECTIONAL FELLER AND SKIDDER ON THE COMPACTION OF A BRUNO NITISOL,,,,,,,,,,,,,,,discarded,It's not agrarian
+422,Effect of Typha domingensis cutting: response of benthic macroinvertebrates and macrophyte regeneration,,,,,,,,,,,,,,,discarded,It's not agrarian
+423,Effects of pruning a temperate mangrove forest on the associated assemblages of macroinvertebrates,,,,,,,,,,,,,,,discarded,It's not agrarian
+424,Robust group- but limited individuallevel (longitudinal) reliability and insights into cross-phases response prediction of conditioned fear,,,,,,,,,,,,,,,discarded,It's not agrarian
+425,ESTIMATION OF LARGE DIMENSIONAL CONDITIONAL FACTOR MODELS IN FINANCE,,,,,,,,,,,,,,,discarded,It's not agrarian
+426,Estimation of the Proportion of Offspring Having Genetically Crispy Flesh in Grape Breeding,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+427,Evaluating group distributional characteristics: Why psychophysiologists should be interested in qualitative departures from the normal distribution,,,,,,,,,,,,,,,discarded,It's not agrarian
+428,Evaluating group distributional characteristics: Why psychophysiologists should be interested in qualitative departures from the normal distribution,,,,,,,,,,,,,,,discarded,It's not agrarian
+429,Exploring Plant Functional Diversity and Redundancy of Mediterranean High-Mountain Habitats in the Apennines,,,,,,,,,,,,,,,discarded,It's not agrarian
+430,Firmicutes Levels in the Mouth Reflect the Gut Condition With Respect to Obesity and Early Childhood Caries,,,,,,,,,,,,,,,discarded,It's not agrarian
+431,"Food resource partitioning among species of Astyanax (Characiformes: Characidae) in the Lower Iguaçu River and tributaries, Brazil",,,,,,,,,,,,,,,discarded,It's not agrarian
+432,"Genetic diversity of four broodstocks of tilapia (Oreochromis sp.) from Antioquia, Colombia",,,,,,,,,,,,,,,discarded,It's not agrarian
+433,"Growth and Survival of Black-lip Pearl Oyster Pinctada margaritifera (Linnaeus, 1758) in Bamboo and Metal-framed Pocket Net Baskets Subjected to Cleaning and Without Cleaning Conditions",,,,,,,,,,,,,,,discarded,It's not agrarian
+434,"Influence of Antibiotics, Sealing System and Genotype on Shoot Regeneration via Organogenesis in Passion Flowers",,,,,,,,,,,,,,,discarded,It's not agrarian
+435,Statistical Analysis of Requirements Prioritization for Transition to Web Technologies: A Case Study in an Electric Power Organization,,,,,,,,,,,,,,,discarded,It's not agrarian
+436,Seq’ and ARMS shall find: DNA (meta)barcoding of Autonomous Reef Monitoring Structures across the tree of life uncovers hidden cryptobiome of tropical urban coral reefs,,,,,,,,,,,,,,,discarded,It's not agrarian
+437,Local enhancement of epibenthic macrofauna by aquaculture activities,,,,,,,,,,,,,,,discarded,It's not agrarian
+438,Non-linear transformation of enzyme-linked immunosorbent assay (ELISA) measurements allows usage of linear models for data analysis,,,,,,,,,,,,,,,discarded,It's not agrarian
+439,Influence of an Antarctic waste dump on recruitment to nearshore marine soft-sediment assemblages,,,,,,,,,,,,,,,discarded,It's not agrarian
+440,Integral evaluation of indicators in models of parametric and non-parametric analysis of variance. Use of the categorical principal component,,,,,,,,,,,,,,,discarded,It's not agrarian
+441,"The interaction effect of body mass index and age on fat‑free mass, waist‑to‑hip ratio, and soft lean mass",,,,,,,,,,,,,,,discarded,It's not agrarian
+442,Large‑scale diachronic surveys of the composition and dynamics of plant communities in Pyrenean snowbeds,,,,,,,,,,,,,,,discarded,It's not agrarian
+443,"Maize (Zea mays L.) yield stability dependence on crop rotation, fertilization and climatic conditions in a long-term experiment on Haplic Chernozem",,,,,,,,,,,,,,,discarded,Does not perform data transformation
+444,Marginal adaptation in proximal cavities restored with composites and other materials,,,,,,,,,,,,,,,discarded,It's not agrarian
+445,Microbial Quality of Treated Wastewater and Borehole Water Used for Irrigation in a Semi-Arid Area,,,,,,,,,,,,,,,discarded,It's not agrarian
+446,Multispecies environmental DNA metabarcoding sheds light on annual coral spawning events,,,,,,,,,,,,,,,discarded,It's not agrarian
+447,"Morphometric and meristic variation in the Atlantic chub mackerel Scomber colias Gmelin, 1789 from the Moroccan coast",,,,,,,,,,,,,,,discarded,It's not agrarian
+448,Experimental Investigation Using Response Surface Methodology for Condition Monitoring of Misaligned Rotor System,,,,,,,,,,,,,,,discarded,It's not agrarian
+449,On the Use of Statistical Tests with Non-Normally Distributed Data in Landscape Change Detection,,,,,,,,,,,,,,,discarded,It's not agrarian
+450,"Phenotypic Variability, Heritability and Associations of Agronomic and Quality Traits in Cultivated Ethiopian Durum Wheat (Triticum turgidum L. ssp. Durum, Desf.)",,,,,,,,,,,,,,,discarded,Does not perform data transformation
+451,Physiological quality of rice in the function of selenium doses,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+452,PRAIRIE DOG EFFECTS ON PLANT COMMUNITY STRUCTURE IN SOUTHERN MIXED-GRASS PRAIRIE,,,,,,,,,,,,,,,discarded,It's not agrarian
+453,Preanalytical Pitfalls in Untargeted Plasma Nuclear Magnetic Resonance Metabolomics of Endocrine Hypertension,,,,,,,,,,,,,,,discarded,It's not agrarian
+454,Prospects and constraints in studying the biodiversity of agriculturally important microalgae and cyanobacteria and useful statistical tools,,,,,,,,,,,,,,,discarded,It's not agrarian
+455,Relationships between spatial patterns of benthic assemblages in a mangrove forest using different levels of taxonomic resolution,,,,,,,,,,,,,,,discarded,It's not agrarian
+456,Relationships between the incidence and degree of medullation with the diameter of alpaca fibers evaluated using a novel device based on artificial intelligence,,,,,,,,,,,,,,,discarded,It's not agrarian
+457,RunData: an easy and intuitive online tool for statistical analyses,,,,,,,,,,,,,,,discarded,It's not agrarian
+458,Scale-dependent distribution of soft-bottom infauna and possible structuring forces in low diversity systems,,,,,,,,,,,,,,,discarded,It's not agrarian
+459,Seascape biodiversity patterns along the Mediterranean and the Black Sea: lessons from the biogeography of benthic polychaetes,,,,,,,,,,,,,,,discarded,It's not agrarian
+460,Diagnostic Framework for Evaluating How Parametric Uncertainty Influences Agro-Hydrologic Model Projections of Crop Yields Under Climate Change,,,,,,,,,,,,,,,discarded,It's not agrarian
+461,"Similarity, classification and diversity “an Eternal Golden Braid” in quantitative vegetation studies",,,,,,,,,,,,,,,discarded,It's not agrarian
+462,Spatial and temporal heterogeneity in the distribution of an Antarctic amphipod and relationship with the sediment,,,,,,,,,,,,,,,discarded,It's not agrarian
+463,"Spatial variability in evaluation experiments of corn genotypes in the state of Mato Grosso do Sul, Brazil",,,,,,,,,,,,,,,discarded,Does not perform data transformation
+464,Species surrogacy in environmental impact assessment and monitoring: extending the BestAgg approach to asymmetrical designs,,,,,,,,,,,,,,,discarded,It's not agrarian
+465,The role of industry 4.0 in supply chain sustainability: Evidence from the rubber industry,,,,,,,,,,,,,,,discarded,It's not agrarian
+466,Tips and Tricks for Successful Application of Statistical Methods to Biological Data,,,,,,,,,,,,,,,discarded,It's not agrarian
+467,Tree species with potential for reforestation in coastal zones of the humid tropics,,,,,,,,,,,,,,,discarded,It's not agrarian
+468,Understanding Dilated Mathematical Relationship between Image Features and the Convolutional Neural Network’s Learnt Parameters,,,,,,,,,,,,,,,discarded,It's not agrarian
+469,Use of auctions to assess consumer value for milk from different packaging,,,,,,,,,,,,,,,discarded,It's not agrarian
+470,"Stevia rebaudiana Bertoni: The Interaction of Night Interruption on Gas Exchange, Flowering Delay, and Steviol Glycosides Synthesis",,,,,,,,,,,,,,,discarded,It's not agrarian
+471,Supervised Dimensionality Reduction and Visualization using Centroid-Encoder,,,,,,,,,,,,,,,discarded,It's not agrarian
+472,Winter oilseed rape and weed competition in organic farming using non-chemical weed control,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+473,Subjective assessment of frequency distribution histograms and consequences on reference interval accuracy for small sample sizes: A computer-simulated study,,,,,,,,,,,,,,,discarded,It's not agrarian
+474,Transformation of Multicolour Flow Cytometry data with OTflow prevents misleading multivariate analysis (MVA) results and incorrect immunological conclusions,,,,,,,,,,,,,,,discarded,It's not agrarian
+475,Cold thermal tolerance as a range‑shift predictive trait: an essential link in the disparity of occurrence of tropical reef fshes in temperate waters,,,,,,,,,,,,,,,discarded,It's not agrarian
+476,Technical Note: Application of the Box-Cox Data Transformation to Animal Science Experiments,,,,,,,,,,,,,,,discarded,It's not agrarian
+477,Genetics of Lifetime Reproductive Performance in Italian Heavy Draught Horse Mares,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+478,Is the benthic index AMBI impervious to seasonality and data transformations while evaluating the ecological status of an anthropized monsoonal estuary?,,,,,,,,,,,,,,,discarded,It's not agrarian
+479,Outliers in L2 Research in Applied Linguistics: A Synthesis and Data Re-Analysis,,,,,,,,,,,,,,,discarded,It's not agrarian
+480,Block stream characteristics in Southern Carpathians,,,,,,,,,,,,,,,discarded,It's not agrarian
+481,A Robust and Transferable Model for the Prediction of Flood Losses on Household Contents,,,,,,,,,,,,,,,discarded,It's not agrarian
+482,SPME-GC×GC-TOF MS FINGERPRINT OFVIRALLY-INFECTED CELL 2 CULTURE: SAMPLE PREPARATION OPTIMIZATION AND DATA 3 PROCESSING EVALUATION,,,,,,,,,,,,,,,discarded,It's not agrarian
+483,Influence of Cutting Parameters on Surface Roughness in Grinding of 65G Steel,,,,,,,,,,,,,,,discarded,It's not agrarian
+484,A tutorial on the statistical analysis of factorial experiments with qualitative and quantitative treatment factor level,,,,,,,,,,,,,,,discarded,It's not agrarian
+485,Synthetic design hydrographs for ungauged catchments: a comparison of regionalization methods,,,,,,,,,,,,,,,discarded,It's not agrarian
+486,Approximate prediction intervals in the original units when fitting models using data transformations,,,,,,,,,,,,,,,discarded,It's not agrarian
+487,A Conversation on Data Mining Strategies in LC-MS Untargeted Metabolomics: Pre-Processing and Pre-Treatment Steps,,,,,,,,,,,,,,,discarded,It's not agrarian
+488,A simple method for optimising transformation of non-parametric data: an illustration by reference to cortisol assays,,,,,,,,,,,,,,,discarded,It's not agrarian
+489,Experimental analysis of drag reduction in the pipelines with response surface methodology,,,,,,,,,,,,,,,discarded,It's not agrarian
+490,Statistical analysis of the influence of major tributaries to the eco-chemical status of the Danube River,,,,,,,,,,,,,,,discarded,It's not agrarian
+491,Topics in constrained and unconstrained ordination,,,,,,,,,,,,,,,discarded,It's not agrarian
+492,QUANTIFYING NATURAL VARIABILITY AS A METHOD TO DETECT ENVIRONMENTAL CHANGE: DEFINITIONS OF THE NORMAL RANGE FOR A SINGLE OBSERVATION AND THE MEAN OF M OBSERVATIONS,,,,,,,,,,,,,,,discarded,It's not agrarian
+493,Eutrophication modulates plant-litter diversity effects on litter decomposition in streams,,,,,,,,,,,,,,,discarded,It's not agrarian
+494,A sediment mesocosm experiment to determine if the remediation of a shoreline waste disposal site in Antarctica caused further environmental impacts,,,,,,,,,,,,,,,discarded,It's not agrarian
+495,Diversity and floristic patterns of mediterranean grasslands: the relative influence of environmental and land management factors,,,,,,,,,,,,,,,discarded,It's not agrarian
+496,Anthropogenic Disturbance and Biodiversity of Marine Benthic Communities in Antarctica: A Regional Comparison,,,,,,,,,,,,,,,discarded,It's not agrarian
+497,Offshore platforms: Comparison of five benthic indicators for assessing the macrozoobenthic stress levels,,,,,,,,,,,,,,,discarded,It's not agrarian
+498,Effects of subtle pollution at different levels of biological organisation on species-rich assemblages,,,,,,,,,,,,,,,discarded,It's not agrarian
+499,Evaluating the robustness of repeated measures analyses: The case of small sample sizes and nonnormal data,,,,,,,,,,,,,,,discarded,It's not agrarian
+500,Design and Analysis in Benthic Surveys in Environmental Sampling,,,,,,,,,,,,,,,discarded,It's not agrarian
+501,A critique of current trends in the statistical analysis of seed germination and viability data,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+502,Predicting invertebrate assemblage composition from harvesting pressure and environmental characteristics on tropical reef flats,,,,,,,,,,,,,,,discarded,It's not agrarian
+503,Advantages of the lognormal approach to determining reference change values for N-terminal propeptide B-type natriuretic peptide,,,,,,,,,,,,,,,discarded,It's not agrarian
+504,Data Transformations with a Full 26 Experimental Design—A Metal-Cutting Case Study,,,,,,,,,,,,,,,discarded,It's not agrarian
+505,An integrated simulation-based fuzzy regressiontime series algorithm for electricity consumption estimation with non-stationary data,,,,,,,,,,,,,,,discarded,It's not agrarian
+506,traduz exatamente a frase a seguir Power of the test of One-Way Anova after transforming with large sample size data,,,,,,,,,,,,,,,discarded,It's not agrarian
+507,Sewage treatment level and flow rates affect polychaete assemblages,,,,,,,,,,,,,,,discarded,It's not agrarian
+508,A robust approach for analyzing unbalanced factorial designs with fixed levels,,,,,,,,,,,,,,,discarded,It's not agrarian
+509,"Statistical analysis and data display at the Geochemical Prospecting Research Centre and Applied Geochemistry Research Group, Imperial College, London",,,,,,,,,,,,,,,discarded,It's not agrarian
+510,The effects of lack of normality and homogeneity of variance on analysis of variance and clonal heritability in in vitro clonal propagation traits,,,,,,,,,,,,,,,discarded,It's not agrarian
+511,"Individual, population and community level effects of subtle anthropogenic contamination in estuarine meiobenthos",,,,,,,,,,,,,,,discarded,It's not agrarian
+512,ON QUANTIFYING TOLERANCE OF HERBIVORY FOR COMPARATIVE ANALYSES,,,,,,,,,,,,,,,discarded,It's not agrarian
+513,The logarithmic transformation should be avoided for stabilising the variance of mould growth rate,,,,,,,,,,,,,,,discarded,It's not agrarian
+514,Statistical tests for biological interactions: A comparison of permutation tests and analysis of variance,,,,,,,,,,,,,,,discarded,It's not agrarian
+515,"Impact of exploratory offshore drilling on benthic communities in the Minerva gas field, Port Campbell, Australia",,,,,,,,,,,,,,,discarded,It's not agrarian
+516,The Limnotrons: a facility for experimental community and food web research,,,,,,,,,,,,,,,discarded,It's not agrarian
+517,Evaluation of the Erythroid Regenerative Response in Two Different Models of Experimentally Induced Iron Deficiency Anemia,,,,,,,,,,,,,,,discarded,It's not agrarian
+518,"Statistical methods for evaluating a crop nitrogen simulation model, N_ABLE",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+519,Recombinant vaccinia viruses and gene gun vectors expressing the large subunit of Schistosoma mansoni calpain used in a murine immunization-challenge model,,,,,,,,,,,,,,,discarded,It's not agrarian
+520,A Multivariate QuantitativeGenetic Analysis of Behavioral Development in Mice,,,,,,,,,,,,,,,discarded,It's not agrarian
+521,Monitoring of exposure to acrylonitrile by determination of N-(2-cyanoethyl)valine at the N-terminal position of haemoglobin,,,,,,,,,,,,,,,discarded,It's not agrarian
+522,Case Studies for Statistical Analysis of Toxicokinetic Data,,,,,,,,,,,,,,,discarded,It's not agrarian
+523,Bleeding Due to Needle Biopsy: Effect of Venopirin in an Animal Model and Implications for Humans1,,,,,,,,,,,,,,,discarded,It's not agrarian
+524,Automated surface area measurement of cultured cardiac myocytes,,,,,,,,,,,,,,,discarded,It's not agrarian
+525,USING SIMILARITY MEASURES IN BENTHIC IMPACT ASSESSMENTS,,,,,,,,,,,,,,,discarded,It's not agrarian
+526,Comparative metal analyses in amphipod crustaceans,,,,,,,,,,,,,,,discarded,It's not agrarian
+527,A COMPARISON OF THE PERFORMANCE OF DIFFERENT UNIVARIATE FORECASTING METHODS IN A MODEL OF CAPACITY ACQUISITION IN UK ELECTRICITY SUPPLY,,,,,,,,,,,,,,,discarded,It's not agrarian
+528,Statistical approach for comparison between methods of bacterial enumeration in drinking water,,,,,,,,,,,,,,,discarded,It's not agrarian
+529,Testing the habitat selectivity of bdelloid rotifers in a restricted area,,,,,,,,,,,,,,,discarded,It's not agrarian
+530,Data transformation: an underestimated tool by inappropriate use,,,,,,,,,,,,,,,discarded,It's not agrarian
+531,A large Canadian database for macroeconomic analysis,,,,,,,,,,,,,,,discarded,It's not agrarian
+532,Power of the test of One-Way Anova after transforming with large sample size data,,,,,,,,,,,,,,,discarded,It's not agrarian
+533,A SASr CODE TO CORRECT FOR NON-NORMALITY AND NON-CONSTANT VARIANCE IN REGRESSION AND ANOVA MODELS USING THE BOX–COX METHOD OF POWER TRANSFORMATION,,,,,,,,,,,,,,,discarded,It's not agrarian
+534,Statistical convenience vs biological insight: consequences of data transformation for the analysis of fitness variation in heterogeneous environments,,,,,,,,,,,,,,,discarded,It's not agrarian
+535,Choice of link and variance function for generalized linear mixed models: a case study with binomial response in proteomics,,,,,,,,,,,,,,,discarded,It's not agrarian
+536,Using response surface methodology with response transformation in optimizing plasma spraying coatings,,,,,,,,,,,,,,,discarded,It's not agrarian
+537,A robustness study of parametric and nonparametric tests in model-based multifactor dimensionality reduction for epistasis detection,,,,,,,,,,,,,,,discarded,It's not agrarian
+538,Evaluating the Predictive Power of Ordination Methods in Ecological Context,,,,,,,,,,,,,,,discarded,It's not agrarian
+539,Accurate Spatial Estimation and Decomposition Techniques for Variability Characterization,,,,,,,,,,,,,,,discarded,It's not agrarian
+540,Bioequivalence of Sitagliptin/Metformin Fixed-Dose Combination Tablets and Concomitant Administration of Sitagliptin and Metformin in Healthy Adult Subjects,,,,,,,,,,,,,,,discarded,It's not agrarian
+541,Planning and implementing experiments and analyzing experimental data in vegetable crops: problems and solutions,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+542,"The effect of dietary alterations during rearing on growth, productivity, and behavior in broiler breeder females",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+543,Management implications inferred from the multivariate analysis of vadose zone chemical variables in Las Tablas de Daimiel National Park (Spain),,,,,,,,,,,,,,,discarded,did not perform variance analysis
+544,Comparing sessile benthos on shallow artificial versus natural hard substrates in the Eastern Mediterranean Sea,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+545,Diet DNA reveals novel African Forest elephant ecology on the grasslands of the Congo Basin,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+546,Fish use of reef structures and adjacent sand flats: implications for selecting minimum buffer zones between new artificial reefs and existing reefs,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+547,IN VIVO COMPARATIVE BIOAVAILABILITY STUDY OF TWO VALPROIC ACID SYRUP FORMULATIONS DISPENSED IN GAZA STRIP,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+548,"Life-History traits of Hollandichthys multifasciatus (Eigenmann & Norris, 1900) (Characiformes: Characidae) in coastal Atlantic Forest blackwater streams from Southeastern Brazil",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+549,"Genetic Parameters and Selection Efficiencies in Resistance to Western Gall Rust, Stalactiform Blister Rust, Needle Cast, and Sequoia Pitch Moth in Lodgepole Pine",,,,,,,,,,,,,,,discarded,did not perform variance analysis
+550,Sample Size Requirements for Studies of Treatment Effects on Beta-Cell Function in Newly Diagnosed Type 1 Diabetes,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+551,Statistical model assumptions achieved by linear models: classics and generalized mixed1,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+552,Optimal Power Transformations for Analysis of Sperm Concentration and Other Semen Variables,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+553,Serum Analytes of American Mink (Neovison Vison) Challenged with Aleutian Mink Disease Virus,,,,,,,,,,,,,,,discarded,did not perform variance analysis
+554,NON-PARAMETRIC STATISTICAL METHODS AND DATA TRANSFORMATIONS IN AGRICULTURAL PEST POPULATION STUDIES,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+555,Data Transformation iTwo-Way Analysis of Variance,,,,,,,,,,,,,,,discarded,It's not agrarian
+556,Variability in gut mucosal secretory IgA,,,,,,,,,,,,,,,discarded,It's not agrarian
+557, Effect of data transformation on the distribution and repeatability of egg-production traits,,,,,,,,,,,,,,,discarded,It's not agrarian
+558,"Productivity, mineral composition, and phenolic compound content in bush snap beans grown during different seasons",,,,,,,,,,,,,,,discarded,simulation study
+559,Comparison of Sampling Methods Used to Estimate Spider (Araneae) Species AhWldance and Composition in Grape Vineyards,,,,,,,,,,,,,,,discarded,Biology article
+560,"Protection of spruce from colonization by the bark beetle, Ips perturbatus, in Alaska",,,,,,,,,,,,,,,discarded,Biology article
+561,Soil fertility under different tillage systems in sugarcane expansion area,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+562,The Characterization and Optimization of the Thermal Oxidation Process Equipment Using Experimental Design and Data Transformation,,,,,,,,,,,,,,,discarded,It's not agrarian
+563,Central composite design application in the optimization of the effect of waste foundry sand on concrete properties using RSM,,,,,,,,,,,,,,,discarded,engineering
+564,Eucalyptus cloeziana seed count data a comparative analysis of statistical models,,,,,,,,,,,,,,,discarded,Does not perform data transformation
+565,Integrated management of ginger bacterial wilt Ralstonia solanacearum in Southwest EthiopiaCogent Food and Agriculture,,,,,,,,,,,,,,,discarded,Does not perform data transformation
