@@ -1,13 +1,15 @@
-# Data transformations in variance analysis within agrarian sciences: a systematic review
-This repository provide codes and supplementary tables for the article `Data transformations in variance analysis within agrarian sciences: a systematic review`.
+# Statistical data transformation in agrarian sciences for variance analysis: a systematic review
+This repository provide codes and supplementary tables for the article `Statistical data transformation in agrarian sciences for variance
+analysis: a systematic review`.
 The codes for downloading and separating the artcicles were written in Python 3.10 use the following open source libraries: [pyautogui], [openpyxl], [pandas] and [pypdf4]
 
 The preprint is available at XXXXXXX. The following `BibTeX` code can be used to cite it:
 
 ```
 @misc{jhennifer2023,
-      title={Data transformations in variance analysis within agrarian sciences: a systematic review}, 
-      author={J. S. Nascimento,  P. C. Emiliano and G. S. Costa},
+      title={Statistical data transformation in agrarian sciences for variance analysis: a systematic review}, 
+      author={J. S. Nascimento, P. C. Emiliano, R. C. Bernardes, G. S. Costa, and J. F.
+Silva},
       year={2023},
 }
 ```
